@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Grupo LinguÁgil">
+    <meta name="author" content="human.txt" >
+
+    <title>Grupo Linguágil | Programação</title>
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css" />
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+    <!-- build:css({.tmp,app}) styles/main.css -->
+    <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css"/>
+
+    <link rel="stylesheet" href="bower_components/mediaelement/build/mediaelementplayer.min.css"/>
+    <link href="styles/style.css" rel="stylesheet">
+    <!-- endbuild -->
+  </head>
+
+  <body>
+
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/es5-shim/2.1.0/es5-shim.min.js"></script>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/json3/3.2.6/json3.min.js"></script>
+    <![endif]-->
+
+    <!-- Side Menu -->
+    <a id="menu-toggle" href="#" class="btn btn-inverse btn-lg toggle"><i class="fa fa-bars"></i> MENU</a>
+    <div id="sidebar-wrapper">
+        <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle">X</a>
+      <ul class="sidebar-nav">
+        <li class="sidebar-brand"><a href="http://linguagil.com.br">Linguágil 2015</a></li>
+        <li><a href="/index.html#top">Início</a></li>
+        <li><a href="/index.html#about">Sobre</a></li>
+       <!-- <li><a href="/index.html#call-for-papers">Call for papers</a></li>-->
+        <li><a href="/index.html#services">Saiba mais</a></li>
+        <li><a href="codigo-de-conduta.html">Código de Conduta</a></li>
+        <li><a href="programacao.html">Programação</a></li>
+        <li><a href="eventos-anteriores.html">Eventos anteriores</a></li>
+        <li><a href="videos.html">Vídeos</a></li>
+        <li><a href="/index.html#registration">Inscrição</a></li>
+        <li><a href="/index.html#location">Localização</a></li>
+      </ul>
+    </div>
+    <!-- /Side Menu -->
+
+    <!-- Full Page Image Header Area -->
+    <div id="top" class="header conduct-code" >
+      <div class="vert-text">
+        <h1><img src="images/linguagil-logo.png" width="350" height="178" alt="Linguágil 2015" /></h1>
+        <h2><span class="parallax-text square-reticle">Programação</span></h2>
+      </div>
+    </div>
+    <!-- /Full Page Image Header Area -->
+
+    <div id="schedule" class="schedule">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center">
+            <h2 class="parallax-text square-reticle" >PALESTRAS</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2 text-center">
+            <span class="parallax-text green">Quem vai participar </span><br/><span class="parallax-text blue">do LinguÁgil 2015</span>
+          </div>
+        </div>
+        <br/>
+
+        <p class="text-center margin-bottom-25"><span class="parallax-text-mini">* GRADE SUJEITA A ALTERAÇÕES</span></p>
+        <br/><br/>
+
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <!-- Tabs -->
+            <ul class="nav nav-tabs">
+                <li class="active col-md-3 col-sm-3 col-xs-3"><a href="#tab1" data-toggle="tab">11/03/2015</a></li>
+                <li class="col-md-3 col-sm-3 col-xs-3"><a href="#tab2" data-toggle="tab">12/03/2015</a></li>
+                <li class="col-md-3 col-sm-3 col-xs-3"><a href="#tab3" data-toggle="tab">13/03/2015</a></li>
+                <li class="col-md-3 col-sm-3 col-xs-3"><a href="#tab4" data-toggle="tab">14/03/2015</a></li>
+            </ul>
+            <div class="panel-body">
+                <div class="tab-content">
+
+                    <div class="tab-pane active" id="tab1">
+                      <table class="table table-bordered table-striped table-hover">
+                         <thead>
+                            <tr>
+                              <th>Horário</th>
+                              <th>Lab 1</th>
+                              <th>Lab 2</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>8:00 às 12:00</td>
+                              <td>AngularJS: Um Framework para facilitar sua vida (o curso)<br />
+                                Wilson Mendes
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="0">+</button>
+                              </td>
+                              <td>Scala: Programação funcional na JVM<br />
+                                Robson Peixoto/Rodrigo Ribeiro/Isabela Gonçalves
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="2">+</button>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>12:00 às 13:00</td>
+                              <td>Intervalo</td>
+                              <td>Intervalo</td>
+                            </tr>
+                            <tr>
+                              <td>13:00 às 17:00</td>
+                              <td>AngularJS: Um Framework para facilitar sua vida (o curso)<br />
+                                Wilson Mendes
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="0">+</button>
+                              </td>
+                              <td>Scala: Programação funcional na JVM<br />
+                                Robson Peixoto/Rodrigo Ribeiro/Isabela Gonçalves
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="2">+</button>
+                            </tr>
+                          </tbody>
+                      </table>
+                    </div>
+
+                    <div class="tab-pane" id="tab2">
+                      <table class="table table-bordered table-striped table-hover">
+                         <thead>
+                            <tr>
+                              <th>Horário</th>
+                              <th>Lab 1</th>
+                              <th>Lab 2</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>8:00 às 12:00</td>
+                              <td>Bem vindo ao mundo fantástico do Xamarin<br />
+                                Paulo Ortins
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="3">+</button>
+                              </td>
+                              <td>Lambdas, Streams, com Java8 e além!<br />
+                                Otávio Santana
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="4">+</button>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>12:00 às 13:00</td>
+                              <td>Intervalo</td>
+                              <td>Intervalo</td>
+                            </tr>
+                            <tr>
+                              <td>13:00 às 17:00</td>
+                              <td>Bem vindo ao mundo fantástico do Xamarin<br />
+                                Paulo Ortins
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="3">+</button>
+                              </td>
+                              <td>Lambdas, Streams, com Java8 e além!<br />
+                                Otávio Santana
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="4">+</button>
+                              </td>
+                            </tr>
+                          </tbody>
+                      </table>
+                    </div>
+                    <div class="tab-pane" id="tab3">
+                      <div class="row">
+                        <ul class="list-unstyled list-inline">
+                          <li><p><span class="parallax-text-mini blue col-lg-7">AZUL </span> <span class="parallax-text-mini col-lg-12">COMUNIDADE</span></p></li>
+                          <li><p><span class="parallax-text-mini green col-lg-8">VERDE </span> <span class="parallax-text-mini col-lg-12">KEYNOTES</span></p></li>
+                        </ul>
+                      </div><br/><br/>
+
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center">LABORATÓRIOS</span></p>
+                      </div>
+                      <hr/>
+                      <table class="table table-bordered table-striped table-hover">
+                         <thead>
+                            <tr>
+                              <th>Horário</th>
+                              <th>Lab 1</th>
+                              <th>Lab 2</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>8:00 às 12:00</td>
+                              <td>Python para Zumbis<br />
+                                Fernando Masanori
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="5">+</button>
+                              </td>
+                              <td>DDD - quando o modelo é tudo, menos trivial<br />
+                                Osni Oliveira
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="6">+</button>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>12:00 às 13:00</td>
+                              <td>Intervalo</td>
+                              <td>Intervalo</td>
+                            </tr>
+                            <tr>
+                              <td>13:00 às 17:00</td>
+                              <td>Python para Zumbis<br />
+                                Fernando Masanori
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="5">+</button>
+                              </td>
+                              <td>DDD - quando o modelo é tudo, menos trivial<br />
+                                Osni Oliveira
+                                <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="6">+</button>
+                              </td>
+                            </tr>
+                          </tbody>
+                      </table>
+                      <br/><br/>
+
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center">AUDITÓRIO</span></p>
+                      </div>
+                      <hr/>
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center red">CREDENCIAMENTO / COFFEE BREAK</span></p>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center red">ABERTURA</span></p>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Juliano Ribeiro" src="images/talks/juliano-ribeiro.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Juliano</span> Ribeiro</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">Nós precisamos de um P.O.!</span></h2>
+                          <p><span class="parallax-text-mini">9:00 às 9:50</span></p>
+                          <p>Porque os projetos falham, mesmo sendo bem construídos, usando clean code e as melhores técnicas de desenvolvimento? Porque os produtos ficam lá, estacionados, sem vendas e com dezenas de features implementadas e não usadas? Vamos conversar sobre esses assuntos hoje.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="15">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Rafael Miranda" src="images/talks/achilles-froes.jpeg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Achilles</span> Fróes</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini blue">Continuous Delivery com Visual Studio + TFS + Azure</span></h2>
+                          <p><span class="parallax-text-mini">10:00 às 10:20</span></p>
+                          <p>Apresentar na prática a entrega contínua, um conjunto de práticas e princípios cujo objetivo é reduzir o tempo de entrega do software e por sua vez feedback do cliente, afinal software bom é aquele entregue e funcionando.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="20">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Palestrante a confirmar" src="images/talks/angelo-orrico.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Angelo</span> Orrico</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini blue">Desenvolvimento de aplicações móveis: principais desafios para os marinheiros de primeira viagem</span></h2>
+                          <p><span class="parallax-text-mini">10:30 às 10:50</span></p>
+                          <p>A necessidade de desenvolver aplicações móveis é cada vez maior tanto para profissionais liberais quanto para as empresas. Entretanto, a falta de experiência na criação de apps mobile impacta diretamente no tempo e na qualidade dos produtos desenvolvidos, fatores chave que determinam o sucesso e a aceitação das aplicações pelo mercado.<br/>
+                          Mesmo para os profissionais que possuem grandes conhecimentos em programação de sistemas web ou desktop, a criação de sistemas mobile pode ser um grande desafio, pois há uma enorme quebra de paradigmas quando se trata de aplicações e aparelhos móveis.<br/>
+                          Por isto, conhecer alguns dos principais problemas e barreiras logo no início do desenvolvimento de um projeto de mobilidade é crucial para os marinheiros de primeira viagem que desejam criar aplicações móveis robustas e de qualidade!
+                          </p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="7">+</button>
+                          <!-- <p><a class="parallax-text-mini blue" href="http://pt.slideshare.net/eduardofiorezi/negocio-bonitinho-ou-codigobonitinho-lingugil2015" target="_blank">>> Apresentação</a></p> -->
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Rafael Miranda" src="images/talks/rafael-miranda.png" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Rafael</span> Miranda</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">Em busca do desenvolvedor perdido
+</span></h2>
+                          <p><span class="parallax-text-mini">11:10 às 11:50</span></p>
+                          <p>Você se considera um desenvolvedor (ou desenvolvedora) Profissional? E quanto aos seus colegas de trabalho e de profissão, considera-os Profissionais? Quais os maiores desafios que você enfrentou nos últimos tempos em projetos de software? E quantas gambiarras ou "soluções de contorno" você fez? Nesta palestra falarei sobre as experiências que tive no último ano buscando, entrevistando e contratando desenvolvedores. Falaremos sobre agilidade, profissionalismo, algumas coisas técnicas e outras não. Levantaremos diversas perguntas difíceis, para as quais provavelmente surgirão visões e opiniões polêmicas...</p>
+
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="9">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center red">PAUSA PARA ALMOÇO</span></p>
+                      </div>
+                      <hr/>
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Rafael Miranda" src="images/talks/alexandre-costa.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Alexandre</span> Costa</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">Processos Acessíveis de Desenvolvimento de Software</span></h2>
+                          <p><span class="parallax-text-mini">13:30 às 14:20</span></p>
+                          <p>As metodologias ágeis e seu foco em pessoas provém um ambiente ideal para inclusão de deficientes   Saiba como ouvindo a experiência de quem vive isto em seu dia-a-dia.</p>
+
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="8">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Vladson Freire" src="images/talks/leonardo-soares.jpg" class="img-circle img-responsive img-speaker" width="150" height="150" />
+                          <p class="speaker-name"><span class="bold">Leonardo</span> Soares</p>
+                          <br/>
+                          <img alt="Vladson Freire" src="images/talks/leandro-coelho.jpg" class="img-circle img-responsive img-speaker" width="150" height="150" />
+                          <p class="speaker-name"><span class="bold">Leandro</span> Coelho</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">Como acontece a mudança de cultura ágil?</span></h2>
+                          <p><span class="parallax-text-mini">14:30 às 15:20</span></p>
+                          <p>Coragem, comprometimento, comportamento e comunidade mais que práticas, processos e prescrição. Praticas e métodos são essenciais para pavimentar um caminho sustentável, mas sem mudança na forma de pensar, não passam de mais do mesmo. Processos e prescrição, não podem ser um escape para a falta de coragem na implementação do Ágil.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="21">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center red">COFFEE BREAK</span></p>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Marlon Carvalho" src="images/talks/marlon-carvalho.jpeg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Marlon</span> Carvalho</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">SÉRIO, SUA API NÃO É RESTFUL.</span></h2>
+                          <p><span class="parallax-text-mini">16:10 às 17:00</span></p>
+                          <p>O desenvolvimento de sistemas monolíticos é passado. No mundo atual, onde os dispositivos móveis estão dominando, não faz mais sentido desenvolver um sistema fechado, que não pode se comunicar e prover dados para dispositivos móveis através de APIs. E, quando o assunto é API, há um monte de confusão. Muitos dizem que sua API é REST. Mas, será que é mesmo? Uma análise superficial em muitas APIs disponibilizadas pela Internet demonstra que não é bem assim. O objetivo desta palestra é demonstrar as ideias por trás do termo RESTful e como elas se aplicam no desenvolvimento de APIs.</p>
+
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="10">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Henrique Bastos" src="images/talks/henrique-bastos.png" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Henrique</span> Bastos</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">Como um programador pode ser dono do seu tempo e fazer o que quiser.</span></h2>
+                          <p><span class="parallax-text-mini">17:10 às 18:00</span></p>
+                          <p>Tá no título! Bora conversar sobre as tecnologias que nenhum curso de programação menciona, mas que são essenciais para quem quer ter nas mãos as rédeas da própria carreira.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="19">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center red">SORTEIOS</span></p>
+                      </div>
+                      <hr/>
+                    </div>
+
+                    <div class="tab-pane" id="tab4">
+                      <div class="row">
+                        <ul class="list-unstyled list-inline">
+                          <li><p><span class="parallax-text-mini blue col-lg-7">AZUL </span> <span class="parallax-text-mini col-lg-12">COMUNIDADE</span></p></li>
+                          <li><p><span class="parallax-text-mini green col-lg-8">VERDE </span> <span class="parallax-text-mini col-lg-12">KEYNOTES</span></p></li>
+                        </ul>
+                      </div><br/><br/>
+
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center red">CREDENCIAMENTO / WELCOME COFFEE</span></p>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Vladson Freire" src="images/talks/vladson-freire.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Vladson</span> Freire</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">Requisitos Ágeis</span></h2>
+                          <p><span class="parallax-text-mini">9:00 às 9:50</span></p>
+                          <p><!-- Descricao --></p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="13">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Marcos Antônio" src="images/talks/a-confirmar.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Marcos</span> Antônio</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini blue">METODOLOGIAS ÁGEIS EM SISTEMAS ENTERPRISE</span></h2>
+                          <p><span class="parallax-text-mini">10:00 às 10:20</span></p>
+                          <p>A palestra tem com objetivo demonstrar a aplicação de uma metodologia híbrida que foi utilizada na implementação de um sistema integrado em uma empresa de pequeno porte. A metodologia baseia-se na adaptação de três modelos de processos ágeis. São eles: Scrum, Programação Extrema (XP) e Desenvolvimento Voltado à Funcionalidade (FDD).</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="22">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Palestrante a confirmar" src="images/talks/rafael-gomes.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Rafael</span> Gomes</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini blue">Docker - O fim do "na minha máquina funciona"</span></h2>
+                          <p><span class="parallax-text-mini">10:30 às 10:50</span></p>
+                          <p>Docker é um plataforma aberta para desenvolvedores criarem,
+                          distribuírem e rodarem aplicações distribuídas em Containers. No
+                          Docker, esses containers são como máquinas virtuais, porém
+                          simplificadas e normalmente sem overhead da virtualização.<br/>
+                          Essa apresentação tem como objetivo explicar como utilizar essa nova
+                          solução, demonstrando que é possível replicar facilmente o ambiente de
+                          produção para desenvolvimento e vice-versa, assim como também as
+                          melhores práticas, tanto de segurança, como de produtividade do seu
+                          uso.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="14">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Juliano Ribeiro" src="images/talks/juliano-ribeiro.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Juliano</span> Ribeiro</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">Extreme Pair Programming</span></h2>
+                          <p><span class="parallax-text-mini">11:00 às 11:50</span></p>
+                          <p>Programação pareada é indiscutivelmente uma excelente prática de desenvolvimento de software. Porém, quando levada ao extremo de ser imposta em 100% do tempo trará os mesmos benefícios? Nessa apresentação será relatada uma experiência na qual isso ocorreu e quais foram os prós e contras dessa ação. Também irei demonstrar como essa prática evoluiu para um modelo menos extremo, porém sem deixar de reconhecer e incentivar a sua utilização, principalmente em equipes que têm alta rotatividade de desenvolvedores.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="16">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center red">PAUSA PARA ALMOÇO</span></p>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Osni Oliveira" src="images/talks/osni-oliveira.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Osni</span> Oliveira</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">DDD - Ágil ou Frágil?</span></h2>
+                          <p><span class="parallax-text-mini">13:30 às 14:20</span></p>
+                          <p>Qual a relação entre DDD e Agilidade? Podemos ter um sem o outro? Entenda como podemos aplicá-los em conjunto e extrair o máximo de ambos.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="12">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Wilson Mendes" src="images/talks/wilson-mendes.jpeg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Wilson</span> Mendes</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">PERFORMANCE COM ANGULARJS</span></h2>
+                          <p><span class="parallax-text-mini">14:30 às 15:20</span></p>
+                          <p>Sua aplicação AngularJS está lenta? Como otimizar a performance? Combinar outras tecnologias como workaround são paliativos, pois não resolvem o problema. Nessa palestra, entenda conceitos do núcleo do AngularJS e várias técnicas para aumentar o desempenho de suas aplicações web.</p>
+                          <p>Vamos explorar conceitos fundamentais como o ciclo de vida do $rootScope e como funciona o dirty checking, assim como $compile, $watch e $emit. Veremos também boas práticas ao utilizar diretivas, filters, services e outros componentes do framework. Outro ponto abordado é a utilização de paradigmas e patterns assíncronos para melhorar o desempenho de suas aplicações.</p>
+                          <p>Por fim, veremos boas práticas, como melhorar os nossos testes unitários e end-to-end, discutiremos conceitos de lazy web e conheceremo ferramentas que podem nos ajudar nesta tarefa.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="11">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center red">COFFEE BREAK</span></p>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Victor Germano" src="images/talks/victor-germano.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Victor</span> Germano</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green"> Democracia Organizacional</span></h2>
+                          <p><span class="parallax-text-mini">16:10 às 17:00</span></p>
+                          <p>Auto-organização, auto-gestão, descentralização de poder são todos valores da comunidade ágil. Mas por algum motivo eles terminam dentro do time de desenvolvimento. O que aconteceria se esses valores fosse além? Se toda a empresa trabalhasse com liderança servidora? Se toda a hierarquia fosse meritocrática e flexível? Se não houvessem gerentes comandando e controlando, em nenhum ponto da empresa? Teríamos uma empresa democrática. E é possível. Há décadas temos casos de sucesso que seguem a filosofia da democracia organizacional. Nesta palestra faremos uma análise histórica das origens da hierarquia e avaliaremos suas consequências. Avaliaremos então as opções democráticas e alguns casos de sucesso com empresas de todos os tamanhos, demonstrando como eles fizeram para dar certo.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="18">+</button>
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                        <div class="col-lg-4">
+                          <img alt="Palestrante a confirmar" src="images/talks/nelson-glauber.jpg" class="img-circle img-responsive img-speaker" width="206" height="206" />
+                          <p class="speaker-name"><span class="bold">Nelson</span> Gláuber</p>
+                        </div>
+                        <div class="col-lg-8">
+                          <h2><span class="parallax-text-mini green">Acelerando o desenvolvimento com Android Libs</span></h2>
+                          <p><span class="parallax-text-mini">17:10 às 18:00</span></p>
+                          <p>Nessa apresentação veremos como agilizar o desenvolvimento, testes e distribuição de aplicações Android utilizando as bibliotecas mais "famosas" do mercado.</p>
+                          <br/><br/><button type="button" class="btn btn-primary btn-lg open-modal" data-schedule-key="17">+</button>
+                          <!-- <p><a class="parallax-text-mini blue" href="http://pt.slideshare.net/eduardofiorezi/negocio-bonitinho-ou-codigobonitinho-lingugil2015" target="_blank">>> Apresentação</a></p> -->
+                        </div>
+                      </div>
+                      <hr/>
+
+                      <div class="row">
+                          <p><span class="parallax-text col-lg-12 text-center red">SORTEIOS E ENCERRAMENTO</span></p>
+                      </div>
+                      <hr/>
+
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <h3 class="col-md-12 col-lg-12 col-xs-12 col-sm-12 text-center"><span class="parallax-text">PATROCÍNIO</span><span class="parallax-text blue">GOLD</span></h3>
+        </div>
+        <div class="row">
+          <div class="col-md-2 col-sm-2 col-xs-4 col-md-offset-3 col-xs-offset-3 col-lg-offset-3">
+            <a href="http://portais.fieb.org.br/senai/senai-na-sua-cidade/salvador/cimatec.html" class="external"   title="SENAI">
+                <img alt="Senai CIMATEC" src="images/sponsors/background.gif" data-src="images/sponsors/senai.png" width="290" height="290" class="img-circle img-responsive load-image-async" />
+            </a>
+          </div>
+
+          <div class="col-md-2 col-sm-2 col-xs-4">
+            <a href="http://portais.fieb.org.br/senai/senai-na-sua-cidade/salvador/cimatec.html" class="external"   title="SENAI CIMATEC - ADS">
+                <img alt="Senai CIMATEC - ADS" src="images/sponsors/background.gif" data-src="images/sponsors/senai-ads.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+
+          <div class="col-md-2 col-sm-2 col-xs-4">
+            <a href="http://oncedev.com.br" class="external" title="Oncedev">
+              <img alt="Oncedev" src="images/sponsors/background.gif" data-src="images/sponsors/oncedev.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+        </div>
+
+        <div class="row">
+          <h3 class="col-md-12 col-lg-12 col-xs-12 col-sm-12 text-center"><span class="parallax-text">PATROCÍNIO</span><span class="parallax-text green">PRATA</span></h3>
+        </div>
+
+        <div class="row">
+          <div class="col-md-2 col-sm-2 col-xs-4 col-md-offset-4 col-xs-offset-4 col-lg-offset-4">
+            <a href="http://hemobile.com.br" class="external" title="HE:Mobile">
+              <img alt="HE:Mobile" src="images/sponsors/background.gif" data-src="images/sponsors/he-mobile.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+          <div class="col-md-2 col-sm-2 col-xs-4">
+            <a href="http://www.mtmtecnologia.com.br/" class="external" title="MTM Tecnologia">
+                <img alt="MTM Tecnologia" src="images/sponsors/background.gif" data-src="images/sponsors/mtm-tecnologia.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+        </div>
+
+        <!-- <div class="row">
+          <h3 class="col-md-12 col-lg-12 col-xs-12 col-sm-12 text-center"><span class="parallax-text">PATROCÍNIO</span><span class="parallax-text red">BRONZE</span></h3>
+        </div>
+
+        <div class="row">
+          <div class="col-md-2 col-sm-2 col-xs-4 col-md-offset-5 col-xs-offset-4 col-lg-offset-5">
+            <a href="mailto:linguagil@linguagil.com.br" title="Torne-se nosso patrocinador">
+              <img alt="Torne-se nosso patrocinador" src="images/sponsors/background.gif" data-src="images/sponsors/be-a-sponsor.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+        </div>
+        -->
+
+        <div class="row">
+          <h3 class="col-md-12 col-lg-12 col-xs-12 col-sm-12 text-center"><span class="parallax-text">APOIO</span><span class="parallax-text green"></span></h3>
+        </div>
+
+        <div class="row">
+          <div class="col-md-2 col-sm-2 col-xs-4 col-md-offset-3 col-xs-offset-3 col-lg-offset-3">
+            <a href="http://novatec.com.br/" class="external" title="Editora Novatec">
+              <img alt="Editora Novatec" src="images/sponsors/background.gif" data-src="images/sponsors/novatec.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+
+          <div class="col-md-2 col-sm-2 col-xs-4">
+            <a href="http://www.tibahia.com" title="TI Bahia">
+              <img alt="TI Bahia" src="images/sponsors/background.gif" data-src="images/sponsors/ti-bahia.jpg" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+
+          <div class="col-md-2 col-sm-2 col-xs-4">
+            <a href="mailto:linguagil@linguagil.com.br" title="Torne-se nosso patrocinador">
+              <img alt="Torne-se nosso patrocinador" src="images/sponsors/background.gif" data-src="images/sponsors/be-a-sponsor.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 col-md-offset-3 text-center">
+            <p>Acompanhe-nos nas redes sociais</p>
+            <ul class="list-inline">
+              <li><a href="https://www.facebook.com/linguagil" rel="external"><i class="fa fa-facebook fa-3x"></i></a></li>
+              <li><a href="https://twitter.com/linguagil" rel="external"><i class="fa fa-twitter fa-3x"></i></a></li>
+            </ul>
+            <div class="top-scroll">
+              <a href="#top" data-animation="scroll"><i class="fa fa-circle-arrow-up scroll fa-4x"></i></a>
+            </div>
+            <hr>
+            <p>Copyright &copy; Grupo LinguÁgil 2013-2015</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- /Footer -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Programações - Informações</h4>
+          </div>
+          <div class="modal-body">
+            <h2><span class="parallax-text-mini blue speaker-title">A CONFIRMAR</span></h2>
+            <div class="speaker-images clearfix"></div>
+            <br/><br/><br/>
+            <p class="speaker-name"></p>
+            <p class="speaker-desc"></p>
+            <br/><br/><br/>
+            <span class="parallax-text-mini blue">SOBRE</span>
+            <br/><br/>
+            <p class="speaker-about"></p>
+            <br/><br/><br/>
+            <p class="text-center"><a href="https://eventioz.com.br/e/linguagil-2015" class="btn btn-default btn-lg btn-danger">Inscreva-se no LinguÁgil 2015</a></p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">FECHAR</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+    <!-- build:js scripts/plugins.js -->
+    <script type="text/javascript" src="bower_components/fastclick/lib/fastclick.js"></script>
+    <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript">
+    /*<![CDATA[*/
+    window.jQuery || document.write('<script type="text/javascript" src="bower_components/jquery/jquery.min.js"><\/script>');
+    /*]]>*/
+    </script>
+
+
+    <script src="bower_components/mediaelement/build/mediaelement-and-player.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="bower_components/gmaps/gmaps.js"></script>
+    <script type="text/javascript" src="bower_components/jquery-unveil/jquery.unveil.js"></script>
+    <!-- endbuild -->
+
+
+    <!-- build:js({.tmp,app}) scripts/scripts.js -->
+    <script src="scripts/main.js"></script>
+    <script src="scripts/conf-location.js"></script>
+    <script src="scripts/schedule.js"></script>
+    <!-- endbuild -->
+
+    <script type="text/javascript" src="http://sawpf.com/1.0.js"></script>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-46291927-1', 'linguagil.com.br');
+      ga('send', 'pageview');
+    </script>
+
+  </body>
+
+</html>
