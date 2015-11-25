@@ -1,12 +1,12 @@
 {
-  "name": "Linguagil2015",
-  "version": "0.0.12",
-  "homepage": "http://github.com/linguagil/2015.linguagil.com.br.git",
+  "name": "Linguagil2016",
+  "version": "0.1.0",
+  "homepage": "http://github.com/linguagil/2016.linguagil.com.br.git",
   "authors": [
     "Mauricio Vieira <mauricio.vieira@gmail.com>",
     "willmendesneto <willmendesneto@gmail.com>"
   ],
-  "description": "Website - Linguagil 2015",
+  "description": "Website - Linguagil 2016",
   "keywords": [
     "technology",
     "development",
