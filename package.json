@@ -30,7 +30,6 @@
     "grunt-google-cdn": "~0.2.0",
     "grunt-html": "~0.3.4",
     "grunt-newer": "~0.5.4",
-    "grunt-ng-annotate": "^0.8.0",
     "grunt-rev": "~0.1.0",
     "grunt-rsync": "~0.2.1",
     "grunt-svgmin": "~0.2.0",
