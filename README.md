@@ -1,33 +1,13 @@
-LinguÁgil 2015
+LinguÁgil 2016
 ============
-[![Build Status](https://drone.io/github.com/linguagil/2015.linguagil.com.br/status.png)](https://drone.io/github.com/linguagil/2015.linguagil.com.br/latest)
-[![Build Status](https://travis-ci.org/linguagil/2015.linguagil.com.br.png)](https://travis-ci.org/linguagil/2015.linguagil.com.br)
 
 ## Setup
 
-Estamos usando ferramentas javascript. É preciso ter o node.js maior que 0.10.0 instalado.
+Estamos usando ferramentas javascript. É preciso ter o node.js 0.12.8 instalado.
 
 Para instalar todos os pacotes e ver o site rodando localmente, use:
 
-Instale o grunt globalmente:
-
-```
-npm -g install grunt-cli
-```
-
-
-### Bower
-
-Instale o bower globalmente e as definições do bower.json
-
-```
-npm -g install bower
-bower install
-```
-
-### Outros pacotes
-
-Instale o resto que está descrito no package.json.
+Instale as dependencias:
 
 ```
 npm install
@@ -46,3 +26,10 @@ Para executar os testes.
 ```
 npm start
 ```
+
+Para fazer o deploy.
+
+```
+npm run deploy
+```
+
