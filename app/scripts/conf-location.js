@@ -79,10 +79,10 @@
         map.setCenter(mapOpts.origin.lat, mapOpts.origin.lng);
 
         mapOpts.destination = {
-          lat: -12.938570,
-          lng: -38.386982,
+          lat: -12.9372505,
+          lng: -38.4132296,
           icon: '/images/pin.png',
-          title: 'LinguÁgil 2015 - SENAI CIMATEC ( 11 a 14 de março ).'
+          title: 'LinguÁgil 2016 - UniJorge ( 16 a 19 de março ).'
         };
 
         map.addMarker({
@@ -91,9 +91,7 @@
           title:  mapOpts.destination.title,
           icon: mapOpts.destination.icon,
           infoWindow: {
-            content: '<p>' + mapOpts.destination.title + '</p>' +
-                    '<p><a id="draw-destination-route" data-talk="false">Como chegar</a></p>' +
-                    '<p><a href="http://portais.fieb.org.br/senai/senai-na-sua-cidade/salvador/cimatec.html" target="_blank" >Website</a></p>'
+            content: '<p>' + mapOpts.destination.title + '</p>'
           },
         });
 
@@ -132,7 +130,7 @@
             border: 'solid 1px #717B87',
             background: '#fff'
           },
-          content: 'Local do evento dias 11 a 14 de março',
+          content: 'Local do evento dias 16 a 19 de março',
           events: {
             click: function(){
               map.setCenter(mapOpts.destination.lat, mapOpts.destination.lng);
