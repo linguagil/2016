@@ -553,6 +553,9 @@ a.font-white, a.font-white:hover{
 .btn-registration-form{
   display: none;
 }
+.bg-registration {
+  background: rgb(255, 205, 138);
+}
 @media screen and (max-width:768px) {
     .registration-form {
         display: none;
@@ -562,7 +565,7 @@ a.font-white, a.font-white:hover{
     }
     .bg-registration {
       color: #333 !important;
-      background: #F2F2F2;
+
       background-image: -moz-linear-gradient(45deg, rgba(0,0,0,.15) 1px, transparent 1px);
       background-image: -webkit-linear-gradient(45deg, rgba(0,0,0,.15) 1px, transparent 1px);
       background-image: -ms-linear-gradient(45deg, rgba(0,0,0,.15) 1px, transparent 1px);
