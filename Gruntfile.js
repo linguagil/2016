@@ -511,45 +511,22 @@ module.exports = function (grunt) {
     'rev',
     'usemin',
     'htmlmin',
+
     'modifyImageLinkInScript:scripts.js:pin.png',
-    'modifyImageLinkInScript:scripts.js:wilson-mendes.jpeg:talks',
-    'modifyImageLinkInScript:scripts.js:marlon-carvalho.jpeg:talks',
-    'modifyImageLinkInScript:scripts.js:luciano-borges.jpg:talks',
     'modifyImageLinkInScript:scripts.js:a-confirmar.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:paulo-ortins.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:otavio-santana.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:fernando-masanori.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:osni-oliveira.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:isabela-goncalves.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:robson-peixoto.png:talks',
-    'modifyImageLinkInScript:scripts.js:rodrigo-ribeiro.png:talks',
-    'modifyImageLinkInScript:scripts.js:rafael-gomes.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:leandro-coelho.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:leonardo-soares.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:nelson-glauber.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:henrique-bastos.png:talks',
-    'modifyImageLinkInScript:scripts.js:angelo-orrico.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:alexandre-costa.jpg:talks',
     'modifyImageLinkInScript:scripts.js:achilles-froes.jpeg:talks',
+    'modifyImageLinkInScript:scripts.js:guilherme-motta.jpg:talks',
     'modifyImageLinkInScript:scripts.js:juliano-ribeiro.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:luciano-borges.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:marcio-albuquerque.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:mauricio-vieira.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:morvana-bonin.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:otavio-santana.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:rafael-helm.jpeg:talks',
     'modifyImageLinkInScript:scripts.js:rafael-miranda.png:talks',
-    'modifyImageLinkInScript:scripts.js:vladson-freire.jpg:talks',
-    'modifyImageLinkInScript:scripts.js:victor-germano.jpg:talks',
 
     'modifyImageLinkInStyles:main.css:home-background.jpg'
   ];
-
-  // for(var i = 0; pagesLength > i; i++) {
-
-  //   gruntBuildTasks.push('modifyImageLinkInHtml:'+pages[i]+':sponsors:background.gif');
-
-  //   gruntBuildTasks.push('modifyImageLinkInHtml:'+pages[i]+':sponsors:be-a-sponsor.png');
-  //   gruntBuildTasks.push('modifyImageLinkInHtml:'+pages[i]+':sponsors:novatec.png');
-  //   gruntBuildTasks.push('modifyImageLinkInHtml:'+pages[i]+':sponsors:he-mobile.png');
-  //   gruntBuildTasks.push('modifyImageLinkInHtml:'+pages[i]+':sponsors:oncedev.png');
-  //   gruntBuildTasks.push('modifyImageLinkInHtml:'+pages[i]+':sponsors:senai-ads.png');
-  //   gruntBuildTasks.push('modifyImageLinkInHtml:'+pages[i]+':sponsors:senai.png');
-  // }
 
   grunt.registerTask('build', gruntBuildTasks);
 
