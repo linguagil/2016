@@ -279,7 +279,7 @@ module.exports = function (grunt) {
       prod: {
         options: {
           src: '<%= yeoman.dist %>/',
-          dest: '/home/linguagil/2016.linguagil.com.br/',
+          dest: '/home/linguagil/linguagil.com.br/',
           host: 'linguagil@linguagil.com.br',
           syncDestIgnoreExcl: true
         }
