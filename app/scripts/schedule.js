@@ -56,6 +56,86 @@
       aboutSpeaker: 'Morvana Bonin - Estudante de Análise e Desenvolvimeto de Sistemas no Senac, Analista de Desenvolvimento na empresa Kinghost, entusiasta e estudante de metodologias ágeis onde poẽm em prática na vida pessoal e no trabalho - <a href="https://br.linkedin.com/in/morvana-bonin-0271b215" target="_blank">linkedin</a>.<br /><br />Guilherme Motta - <a href="https://www.linkedin.com/in/gfcmotta" target="_blank">linkedin</a>',
       image: ['images/talks/morvana-bonin.jpg', 'images/talks/guilherme-motta.jpg']
     },
+    /* 6 - Mila Orrico - */
+    {
+      speaker: 'Mila Orrico',
+      title: 'O trabalho de FDP do PO: fatiar, descartar e priorizar!',
+      description: 'É um desafio instigante manter o mindset alinhado ao que os stakeholders precisam e assegurar que os desenvolvedores entenderam a expectativa do cliente a cada Sprint, o que é prioridade, e o que é desnecessário. Em um time Scrum, PO (Product Owner) é a pessoa que define o produto de software. Fatiar, descartar e priorizar são suas principais tarefas, é sobre como elas podem ser realizadas que iremos conversar.',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 7 ? - */
+    {
+      speaker: '?',
+      title: '?',
+      description: '?',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 8 - Lorena Caldas - */
+    {
+      speaker: 'Lorena Caldas',
+      title: 'SBTM - Testes exploratórios guiados à sessão',
+      description: 'Aprenda como deixar seus testes funcionais enxutos e independentes dos atrasos do projeto de software',
+      aboutSpeaker: 'Meu nome é Lorena Caldas, trabalho com testes vai fazer 5 anos, tempo que pesquiso e proponho avanços para a área. Sou formada e pós-graduada em TI.  Possuo alguns trabalhos publicados na área de ES e já ministrei palestras neste campo. “Isto fica feliz em ser útil! (filme O Homem Bicentenário)”',
+      image: ['images/talks/lorena_caldas.png']
+    },
+    /* 9 - Lorena Caldas - */
+    {
+      speaker: 'Isaque Dias',
+      title: 'Construindo aplicativos móveis com Ionic Framework',
+      description: 'Aprenda como deixar seus testes funcionais enxutos e independentes dos atrasos do projeto de software',
+      aboutSpeaker: 'O Ionic Framework provou que é possível desenvolver aplicativos multiplataforma utilizando as tecnologias que já conhecemos; HTML, CSS e Javascript. Nessa apresentação, mostraremos o potencial desse incrível framework, entre outras ferramentas que tem permitido a criação de apps extraordinários.',
+      image: ['images/talks/isaque_dias.jpg']
+    },
+    /* 10 - Carlos Felippe Cardoso - */
+    {
+      speaker: 'Carlos Felippe Cardoso',
+      title: 'DevOps é uma prática, cultura ou um cargo?',
+      description: 'Um problema é recorrente em diversas empresas: A TI é a maior barreira para o o negócio poder colocar algo em produção. Para endereçar este problema, vamos discutir nesta palestra os formatos de solução que as empresas tem dado no que tange ao termo DevOps, mostrando a importância da cultura DevOps.',
+      aboutSpeaker: 'Carlos Felippe Cardoso é um Agile Coach e trainer com bastante experiência prática, trabalhando com métodos ágeis desde 2004. Sua experiência inclui treinamentos e vivência em Scrum/Kanban, Continuous Delivery, desenvolvimento ágil, testes automatizados e práticas XP.  Já ministrou também diversos cursos e possui vasta experiência em linguagens de programação como Java, Python e C#. Já palestrou nos maiores eventos de agilidade brasileiros é instrutor do treinamento de CSD (Certified Scrum Developer). Além disso, é graduado e mestrando pela UFRJ, onde também atua como professor colaborador.',
+      image: ['images/talks/carlos_felipe.jpg']
+    },
+    /* 11 - Osvaldo Matos Júnior (Tupy) - */
+    {
+      speaker: 'Osvaldo Matos Júnior (Tupy)',
+      title: 'Programação Reactiva',
+      description: 'React é uma biblioteca JavaScript lançada pelo Facebook e Instagram para construir aplicações que os dados mudam com o tempo. Com o React é possível criar componentes reutilizáveis para suas aplicações web, até mesmo extender para aplicações mobile usando React-native.',
+      aboutSpeaker: 'Osvaldo é egenheiro e sócio do Jusbrasil, doutorando em Ciência da Computação (UFBA), mestre em Ciências da Computação (UFMG) e graduado em Engenharia de Computação (UEFS). Atualmente é líder técnico no desenvolvimento frontend do site onde atua com métodos ágeis.',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 12 ? - */
+    {
+      speaker: '?',
+      title: '?',
+      description: '?',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 13 - Osvaldo Matos Júnior (Tupy) - */
+    {
+      speaker: 'Paula Antunes',
+      title: 'Como empreender tendo um emprego?',
+      description: 'Temos desejo de mostrar as nossas ideias e construir coisas novas mas, como é possível desenvolver a minha startup ou explorar as minhas ideias se tenho que trabalhar, preciso cumprir as minhas metas e entregar as minhas atividades para o meu gerente? Parece um grande desafio mas, é simples! ',
+      aboutSpeaker: 'Gerente de Projetos da iBLISS e Fundadora da SMINDER. Pós graduada em Segurança da Informação. E incentivadora das mulheres na tecnologia. ',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 14 ? - */
+    {
+      speaker: '?',
+      title: '?',
+      description: '?',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 15 - Rafael Helm - */
+    {
+      speaker: 'Rafael Helm',
+      title: 'Histórias de Usuário - Por que e como escrever requisitos de forma ágil?',
+      description: 'Você já percebeu que o desenvolvimento de software começa muito antes da escrita das primeiras linhas de código, e que uma documentação ruim vai gerar um software ruim? O objetivo da palestra é demonstrar uma forma mais leve, mas ao mesmo poderosa, de especificar requisitos de software.',
+      aboutSpeaker: 'Experiência de Agile Coach em projetos de larga escala e instrutor de métodos ágeis na Wildtech, tendo a oportunidade de treinar empresas e equipes de diferentes localidades do Brasil, incluindo organizações de larga escala como Procergs, Serpro, Totvs, Banco do Brasil, entre outras empresas. Autor do ebook Histórias de Usuário – Por que e como escrever requisitos de forma ágil?, que atingiu a marca de 4.000 downloads em menos de um ano. Autor do livro "eXtreme Programming - Práticas para o dia a dia no desenvolvimento ágil de software".',
+      image: ['images/talks/rafael-helm.jpeg']
+    },
   ];
 
   function loadModalContent( key ) {
