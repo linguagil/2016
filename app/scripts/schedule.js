@@ -35,7 +35,7 @@
       speaker: 'Rafael Helm',
       title: 'Olá Mundo Ágil - A sua Porta de Entrada no Mundo Ágil!',
       description: 'O objetivo deste treinamento é ajudar empresas iniciando no mundo Ágil a ganharem mais cultura a respeito de metodologias ágeis como Lean, Kanban e Scrum. Ao final do treinamento os participantes terão mais visibilidade sobre o que vão enfrentar durante a transição para o uso de metodologias ágeis.',
-      aboutSpeaker: '',
+      aboutSpeaker: 'Experiência de Agile Coach em projetos de larga escala e instrutor de métodos ágeis na Wildtech, tendo a oportunidade de treinar empresas e equipes de diferentes localidades do Brasil, incluindo organizações de larga escala como Procergs, Serpro, Totvs, Banco do Brasil, entre outras empresas. Autor do ebook Histórias de Usuário – Por que e como escrever requisitos de forma ágil?, que atingiu a marca de 4.000 downloads em menos de um ano. Autor do livro "eXtreme Programming - Práticas para o dia a dia no desenvolvimento ágil de software".',
       image: ['images/talks/rafael-helm.jpeg']
     },
 
@@ -102,7 +102,7 @@
       title: 'Programação Reactiva',
       description: 'React é uma biblioteca JavaScript lançada pelo Facebook e Instagram para construir aplicações que os dados mudam com o tempo. Com o React é possível criar componentes reutilizáveis para suas aplicações web, até mesmo extender para aplicações mobile usando React-native.',
       aboutSpeaker: 'Osvaldo é egenheiro e sócio do Jusbrasil, doutorando em Ciência da Computação (UFBA), mestre em Ciências da Computação (UFMG) e graduado em Engenharia de Computação (UEFS). Atualmente é líder técnico no desenvolvimento frontend do site onde atua com métodos ágeis.',
-      image: ['images/talks/a-confirmar.jpg']
+      image: ['images/talks/tupy.jpg']
     },
     /* 12 ? - */
     {
@@ -136,6 +136,70 @@
       aboutSpeaker: 'Experiência de Agile Coach em projetos de larga escala e instrutor de métodos ágeis na Wildtech, tendo a oportunidade de treinar empresas e equipes de diferentes localidades do Brasil, incluindo organizações de larga escala como Procergs, Serpro, Totvs, Banco do Brasil, entre outras empresas. Autor do ebook Histórias de Usuário – Por que e como escrever requisitos de forma ágil?, que atingiu a marca de 4.000 downloads em menos de um ano. Autor do livro "eXtreme Programming - Práticas para o dia a dia no desenvolvimento ágil de software".',
       image: ['images/talks/rafael-helm.jpeg']
     },
+    /* 16 - Juliano RIbeiro - */
+    {
+      speaker: 'Juliano RIbeiro',
+      title: 'Controlefobia',
+      description: 'Processos e equipes ágeis são caracterizados por terem poucas regras, poucas imposições e muita liberdade. Nesse contexto falar de controle acaba sendo quase um sacrilégio, um pecado passivo de uma dolorosa penitência. Mas esse termo é mal compreendido no universo ágil. O problema em si não é o controle, mas o que fazemos para obtê-lo: Se comprometemos os valores e princípios ágeis para ter controle isso faz dele um vilão. Mas agora se conseguimos ter controle mantendo os valores e princípios intactos ele se torna uma poderosa ferramenta para evolução e melhoria em processos agéis. Mas é possível ter controle e não comprometer nossos valores? Nessa palestra vamos demonstrar essa possibilidade e, principalmente, desfazer seu preconceito.',
+      aboutSpeaker: 'Especialista em Orientação à objetos pelo CESUMAR, é Certified Scrum Professional pela Scrum Alliance, Learning 3.0 Facilitator pela Happy Melly e Certified Delphi Developer pela Embarcadero. Desenvolve software profissionalmente desde 1994. Possui projetos em diversas linguagens como Clipper, Delphi, Java, iOS e Android. Experiência em liderança de equipes de desenvolvimento tendo implementado práticas de XP e Scrum em diversas empresas. Trabalha como Team Member, Scrum Master e Agile Coach desde 2009. Leciona treinamentos de Scrum, Kanban e XP. Organiza e apoia edições do Agile Tour desde 2009. É palestrante recorrente nos principais eventos sobre agilidade no Brasil e no exterior. É o chairman da edição 2016 do Agile Brazil, a maior conferência sobre o assunto na América Latina. Na Objective Solutions atua como profissional sênior, em consultoria e especificação.',
+      image: ['images/talks/juliano_ribeiro.jpg']
+    },
+    /* 17 - Ana Paula Vargas Maia - */
+    {
+      speaker: 'Ana Paula Vargas Maia',
+      title: 'Hackeando Representatividade: Mulheres Empreendedoras',
+      description: 'Palestra pocket sobre cultura empreendedora e os espaço da mulher no universo da tecnologia.',
+      aboutSpeaker: 'Publicitária formada pela Universidade Tiradentes e Mestre em New Media pela Southern Illinois University Carbondale, foi no Empoderamento da Mulhe, Piquenique (piquenique.org) e no Grupo de Pesquisa sobre Gênero, Sexualidade e Feminismos da PUCRS que encontrou mais razões para levantar todo dia. Atua com projetos que tem como principal missão contribuir para o empoderamento individual e coletivo de mulheres através de debates, ações e reflexões, utilizando as ferramentas de inovação social como fios condutores dessa jornada.',
+      image: ['images/talks/ana_paula_maia.jpg']
+    },
+    /* 18 ? - */
+    {
+      speaker: '?',
+      title: '?',
+      description: '?',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 19 ? - */
+    {
+      speaker: '?',
+      title: '?',
+      description: '?',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 20 - Ramon Mota - */
+    {
+      speaker: 'Ramon Mota',
+      title: 'Computação Ubíqua, o que isso tem a ver com Android Wear.',
+      description: 'Você sabe o que é Android Wear? Já imaginou poder ter todas suas informações no seu pulso, sem ter necessidade de tirar seu smartphone do bolso? Veremos nesta palestra o que é esse tal  de Android Wear, desvelando este fascinante mundo da computação ubíqua.',
+      aboutSpeaker: 'Desenvolvedor java, especialista e fã da Computação Ubíqua, atualmente aficionado pelo desenvolvimento para Smartwatches através  do  Android Wear. Participa da comunidade Google Developer Group (GDG) Salvador.  Atua como Analista Java na Capgemini, e é forrozeiro nas horas livres.',
+      image: ['images/talks/ramon _mota.png']
+    },
+    /* 21 - Francinr Grando - */
+    {
+      speaker: 'Francinr Grando',
+      title: 'Empreendendo com Software Livre.',
+      description: 'Esta palestra tem como objetivo,desbertar o lado empreendedor do pessoal da area de T.I. Incentivando ao uso demasiado de softawares livres em sua nova jornada. Alem de abordar temas como inovação e criatividade.',
+      aboutSpeaker: 'Bacharel em Filosofia, Especialista em Análise de Usuários e Pós Graduada em Marketing Digital. Ganhou notoriedade internacional a partir do case de estudo em redes sociais chamado “O que queremos?”, mesma nomenclatura utilizada em sua página no Facebook que já foi visualizada e compartilhada por mais de 90 milhões de internautas.. Ficou na lista dos palestrantes mais requisitados do Brasil em 2013/2014. Já trabalhou na criação de identidade de comportamento de usuários de marcas como:Ministério da Saúde, Canais Globo Sat, Nextel, Claro,Cia Zafarri, Red Bull, entre outras.',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 22 ? - */
+    {
+      speaker: '?',
+      title: '?',
+      description: '?',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
+    },
+    /* 23 - Otávio Santana - */
+    {
+      speaker: 'Otávio Santana',
+      title: 'Programação funcional com Java 8',
+      description: 'Cansado de ir em uma palestra de funcional com Java 8 e apenas ouvir sobre o Stream? Certamente uns dos recursos mais interessante que entrou na última versão do Java, o Java 8, foi o uso de lambda e recurso funcional, com isso, o Java além de ser multiplataforma é multiparadigma. Conheça um pouco as diferenças e as aplicações do conceito funcional dentro do Java 8, as novas APIs além dos novos padrões que nascem após essa versão. Tudo isso com uma visão prática com a IDE aberta quase todo o tempo.',
+      aboutSpeaker: 'Um Desenvolvedor apaixonado pelo que faz. Praticante da filosofia ágil e do desenvolvimento poliglota, Auxilia diversos JUGs ao redor do mundo, um dos fomentadores do grupo LinguÁgil. Leva a sério o termo “Make the future Java” presente como membro do Java Expert Group em diversas especificações em todas as plataformas Java, incluindo o OpenJDK. Membro do comitê executivo do JCP, inclusive ganhando um outstanding member award e Java Champion pelos seus feitos. Contribuiu para diversos projetos Open Source também é membro da OSI e Apache commiter.',
+      image: ['images/talks/otavio-santana.jpg']
+    }
   ];
 
   function loadModalContent( key ) {
