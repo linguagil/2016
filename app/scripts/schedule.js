@@ -61,8 +61,8 @@
       speaker: 'Mila Orrico',
       title: 'O trabalho de FDP do PO: fatiar, descartar e priorizar!',
       description: 'É um desafio instigante manter o mindset alinhado ao que os stakeholders precisam e assegurar que os desenvolvedores entenderam a expectativa do cliente a cada Sprint, o que é prioridade, e o que é desnecessário. Em um time Scrum, PO (Product Owner) é a pessoa que define o produto de software. Fatiar, descartar e priorizar são suas principais tarefas, é sobre como elas podem ser realizadas que iremos conversar.',
-      aboutSpeaker: '',
-      image: ['images/talks/a-confirmar.jpg']
+      aboutSpeaker: 'Trabalha com Agilidade desde 2009, é desenvolvedora, empreendedora e atua principalmente como Product Owner e Coordenadora de Desenvolvimento. É CSM, CSPO e CSD, e contribui na organização do Agile Tour Salvador e do LinguÁgil. <a href="https://www.linkedin.com/in/milaorrico/" target="_blank">linkedin.com/milaorrico</a>.',
+      image: ['images/talks/mila_orrico.jpg']
     },
     /* 7 ? - */
     {
