@@ -152,13 +152,13 @@
       aboutSpeaker: 'Publicitária formada pela Universidade Tiradentes e Mestre em New Media pela Southern Illinois University Carbondale, foi no Empoderamento da Mulhe, Piquenique (piquenique.org) e no Grupo de Pesquisa sobre Gênero, Sexualidade e Feminismos da PUCRS que encontrou mais razões para levantar todo dia. Atua com projetos que tem como principal missão contribuir para o empoderamento individual e coletivo de mulheres através de debates, ações e reflexões, utilizando as ferramentas de inovação social como fios condutores dessa jornada.',
       image: ['images/talks/ana_paula_maia.jpg']
     },
-    /* 18 ? - */
+    /* 18 Adriana de Melo Fontes - */
     {
-      speaker: '?',
-      title: '?',
-      description: '?',
-      aboutSpeaker: '',
-      image: ['images/talks/a-confirmar.jpg']
+      speaker: 'Adriana de Melo Fontes',
+      title: 'Quero ser um certificado Scrum! Porque ter e o que devo fazer para ter?',
+      description: 'A metodologia Scrum vem sendo adotada por um número cada vez mais crescente de pessoas e organizações. Porém, muitos desconhecem a existência das certificações. Por isso, apresentarei as certificações (CSM, CSPO, CSP, CST e CSC) e as etapas para obtê-las.',
+      aboutSpeaker: '<p>Adriana Fontes é mestranda em Ciência da Computação na Universidade Federal de Sergipe, possui MBA em Gerência de Projetos (FANESE), especializações em Gestão de Projetos de Software (FANESE) e Didática do Ensino Superior (Pio Décimo) e, cursou Bacharelado em Sistemas de Informação na Universidade Tiradentes. </p><p>Obteve as certificações CSP, CSPO e CSM pela Scrum Alliance e a Certified Lean Kanban pela LeanKanban Universit. </p><p>Profissionalmente, exerce as funções de Analista de Sistemas, Product Owner e Scrum Master em diversos projetos na Pio Décimo e na Trust Consultoria e Softwares.</p>',
+      image: ['images/talks/adriana_fontes.jpg']
     },
     /* 19 ? - */
     {
@@ -182,7 +182,7 @@
       title: 'Empreendendo com Software Livre.',
       description: 'Esta palestra tem como objetivo,desbertar o lado empreendedor do pessoal da area de T.I. Incentivando ao uso demasiado de softawares livres em sua nova jornada. Alem de abordar temas como inovação e criatividade.',
       aboutSpeaker: 'Bacharel em Filosofia, Especialista em Análise de Usuários e Pós Graduada em Marketing Digital. Ganhou notoriedade internacional a partir do case de estudo em redes sociais chamado “O que queremos?”, mesma nomenclatura utilizada em sua página no Facebook que já foi visualizada e compartilhada por mais de 90 milhões de internautas.. Ficou na lista dos palestrantes mais requisitados do Brasil em 2013/2014. Já trabalhou na criação de identidade de comportamento de usuários de marcas como:Ministério da Saúde, Canais Globo Sat, Nextel, Claro,Cia Zafarri, Red Bull, entre outras.',
-      image: ['images/talks/a-confirmar.jpg']
+      image: ['images/talks/Francine_Grando-Credito_Lisa Roos.jpg']
     },
     /* 22 ? - */
     {
