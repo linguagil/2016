@@ -515,16 +515,23 @@ module.exports = function (grunt) {
     'modifyImageLinkInScript:scripts.js:pin.png',
     'modifyImageLinkInScript:scripts.js:a-confirmar.jpg:talks',
     'modifyImageLinkInScript:scripts.js:achilles-froes.jpeg:talks',
+    'modifyImageLinkInScript:scripts.js:adriana-fontes.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:ana-paula-maia.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:francine-grando.jpg:talks',
     'modifyImageLinkInScript:scripts.js:guilherme-motta.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:isaque-dias.jpg:talks',
     'modifyImageLinkInScript:scripts.js:juliano-ribeiro.jpg:talks',
     'modifyImageLinkInScript:scripts.js:luciano-borges.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:lorena-caldas.png:talks',
     'modifyImageLinkInScript:scripts.js:marcio-albuquerque.jpg:talks',
     'modifyImageLinkInScript:scripts.js:mauricio-vieira.jpg:talks',
+    'modifyImageLinkInScript:scripts.js:mila-orrico.jpg:talks',
     'modifyImageLinkInScript:scripts.js:morvana-bonin.jpg:talks',
     'modifyImageLinkInScript:scripts.js:otavio-santana.jpg:talks',
     'modifyImageLinkInScript:scripts.js:rafael-helm.jpeg:talks',
     'modifyImageLinkInScript:scripts.js:rafael-miranda.png:talks',
-
+    'modifyImageLinkInScript:scripts.js:ramon-mota.png:talks',
+    'modifyImageLinkInScript:scripts.js:tupy.jpg:talks',
     'modifyImageLinkInStyles:main.css:home-background.jpg'
   ];
 

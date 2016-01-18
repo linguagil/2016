@@ -62,7 +62,7 @@
       title: 'O trabalho de FDP do PO: fatiar, descartar e priorizar!',
       description: 'É um desafio instigante manter o mindset alinhado ao que os stakeholders precisam e assegurar que os desenvolvedores entenderam a expectativa do cliente a cada Sprint, o que é prioridade, e o que é desnecessário. Em um time Scrum, PO (Product Owner) é a pessoa que define o produto de software. Fatiar, descartar e priorizar são suas principais tarefas, é sobre como elas podem ser realizadas que iremos conversar.',
       aboutSpeaker: 'Trabalha com Agilidade desde 2009, é desenvolvedora, empreendedora e atua principalmente como Product Owner e Coordenadora de Desenvolvimento. É CSM, CSPO e CSD, e contribui na organização do Agile Tour Salvador e do LinguÁgil. <a href="https://www.linkedin.com/in/milaorrico/" target="_blank">linkedin.com/milaorrico</a>.',
-      image: ['images/talks/mila_orrico.jpg']
+      image: ['images/talks/mila-orrico.jpg']
     },
     /* 7 ? - */
     {
@@ -78,15 +78,15 @@
       title: 'SBTM - Testes exploratórios guiados à sessão',
       description: 'Aprenda como deixar seus testes funcionais enxutos e independentes dos atrasos do projeto de software',
       aboutSpeaker: 'Meu nome é Lorena Caldas, trabalho com testes vai fazer 5 anos, tempo que pesquiso e proponho avanços para a área. Sou formada e pós-graduada em TI.  Possuo alguns trabalhos publicados na área de ES e já ministrei palestras neste campo. “Isto fica feliz em ser útil! (filme O Homem Bicentenário)”',
-      image: ['images/talks/lorena_caldas.png']
+      image: ['images/talks/lorena-caldas.png']
     },
-    /* 9 - Lorena Caldas - */
+    /* 9 - Isaque Dias - */
     {
       speaker: 'Isaque Dias',
       title: 'Construindo aplicativos móveis com Ionic Framework',
       description: 'Aprenda como deixar seus testes funcionais enxutos e independentes dos atrasos do projeto de software',
       aboutSpeaker: 'O Ionic Framework provou que é possível desenvolver aplicativos multiplataforma utilizando as tecnologias que já conhecemos; HTML, CSS e Javascript. Nessa apresentação, mostraremos o potencial desse incrível framework, entre outras ferramentas que tem permitido a criação de apps extraordinários.',
-      image: ['images/talks/isaque_dias.jpg']
+      image: ['images/talks/isaque-dias.jpg']
     },
     /* 10 - Carlos Felippe Cardoso - */
     {
@@ -94,7 +94,7 @@
       title: 'DevOps é uma prática, cultura ou um cargo?',
       description: 'Um problema é recorrente em diversas empresas: A TI é a maior barreira para o o negócio poder colocar algo em produção. Para endereçar este problema, vamos discutir nesta palestra os formatos de solução que as empresas tem dado no que tange ao termo DevOps, mostrando a importância da cultura DevOps.',
       aboutSpeaker: 'Carlos Felippe Cardoso é um Agile Coach e trainer com bastante experiência prática, trabalhando com métodos ágeis desde 2004. Sua experiência inclui treinamentos e vivência em Scrum/Kanban, Continuous Delivery, desenvolvimento ágil, testes automatizados e práticas XP.  Já ministrou também diversos cursos e possui vasta experiência em linguagens de programação como Java, Python e C#. Já palestrou nos maiores eventos de agilidade brasileiros é instrutor do treinamento de CSD (Certified Scrum Developer). Além disso, é graduado e mestrando pela UFRJ, onde também atua como professor colaborador.',
-      image: ['images/talks/carlos_felipe.jpg']
+      image: ['images/talks/carlos-felipe.jpg']
     },
     /* 11 - Osvaldo Matos Júnior (Tupy) - */
     {
@@ -138,11 +138,11 @@
     },
     /* 16 - Juliano RIbeiro - */
     {
-      speaker: 'Juliano RIbeiro',
+      speaker: 'Juliano Ribeiro',
       title: 'Controlefobia',
       description: 'Processos e equipes ágeis são caracterizados por terem poucas regras, poucas imposições e muita liberdade. Nesse contexto falar de controle acaba sendo quase um sacrilégio, um pecado passivo de uma dolorosa penitência. Mas esse termo é mal compreendido no universo ágil. O problema em si não é o controle, mas o que fazemos para obtê-lo: Se comprometemos os valores e princípios ágeis para ter controle isso faz dele um vilão. Mas agora se conseguimos ter controle mantendo os valores e princípios intactos ele se torna uma poderosa ferramenta para evolução e melhoria em processos agéis. Mas é possível ter controle e não comprometer nossos valores? Nessa palestra vamos demonstrar essa possibilidade e, principalmente, desfazer seu preconceito.',
       aboutSpeaker: 'Especialista em Orientação à objetos pelo CESUMAR, é Certified Scrum Professional pela Scrum Alliance, Learning 3.0 Facilitator pela Happy Melly e Certified Delphi Developer pela Embarcadero. Desenvolve software profissionalmente desde 1994. Possui projetos em diversas linguagens como Clipper, Delphi, Java, iOS e Android. Experiência em liderança de equipes de desenvolvimento tendo implementado práticas de XP e Scrum em diversas empresas. Trabalha como Team Member, Scrum Master e Agile Coach desde 2009. Leciona treinamentos de Scrum, Kanban e XP. Organiza e apoia edições do Agile Tour desde 2009. É palestrante recorrente nos principais eventos sobre agilidade no Brasil e no exterior. É o chairman da edição 2016 do Agile Brazil, a maior conferência sobre o assunto na América Latina. Na Objective Solutions atua como profissional sênior, em consultoria e especificação.',
-      image: ['images/talks/juliano_ribeiro.jpg']
+      image: ['images/talks/juliano-ribeiro.jpg']
     },
     /* 17 - Ana Paula Vargas Maia - */
     {
@@ -150,7 +150,7 @@
       title: 'Hackeando Representatividade: Mulheres Empreendedoras',
       description: 'Palestra pocket sobre cultura empreendedora e os espaço da mulher no universo da tecnologia.',
       aboutSpeaker: 'Publicitária formada pela Universidade Tiradentes e Mestre em New Media pela Southern Illinois University Carbondale, foi no Empoderamento da Mulhe, Piquenique (piquenique.org) e no Grupo de Pesquisa sobre Gênero, Sexualidade e Feminismos da PUCRS que encontrou mais razões para levantar todo dia. Atua com projetos que tem como principal missão contribuir para o empoderamento individual e coletivo de mulheres através de debates, ações e reflexões, utilizando as ferramentas de inovação social como fios condutores dessa jornada.',
-      image: ['images/talks/ana_paula_maia.jpg']
+      image: ['images/talks/ana-paula-maia.jpg']
     },
     /* 18 Adriana de Melo Fontes - */
     {
@@ -158,7 +158,7 @@
       title: 'Quero ser um certificado Scrum! Porque ter e o que devo fazer para ter?',
       description: 'A metodologia Scrum vem sendo adotada por um número cada vez mais crescente de pessoas e organizações. Porém, muitos desconhecem a existência das certificações. Por isso, apresentarei as certificações (CSM, CSPO, CSP, CST e CSC) e as etapas para obtê-las.',
       aboutSpeaker: '<p>Adriana Fontes é mestranda em Ciência da Computação na Universidade Federal de Sergipe, possui MBA em Gerência de Projetos (FANESE), especializações em Gestão de Projetos de Software (FANESE) e Didática do Ensino Superior (Pio Décimo) e, cursou Bacharelado em Sistemas de Informação na Universidade Tiradentes. </p><p>Obteve as certificações CSP, CSPO e CSM pela Scrum Alliance e a Certified Lean Kanban pela LeanKanban Universit. </p><p>Profissionalmente, exerce as funções de Analista de Sistemas, Product Owner e Scrum Master em diversos projetos na Pio Décimo e na Trust Consultoria e Softwares.</p>',
-      image: ['images/talks/adriana_fontes.jpg']
+      image: ['images/talks/adriana-fontes.jpg']
     },
     /* 19 ? - */
     {
@@ -174,7 +174,7 @@
       title: 'Computação Ubíqua, o que isso tem a ver com Android Wear.',
       description: 'Você sabe o que é Android Wear? Já imaginou poder ter todas suas informações no seu pulso, sem ter necessidade de tirar seu smartphone do bolso? Veremos nesta palestra o que é esse tal  de Android Wear, desvelando este fascinante mundo da computação ubíqua.',
       aboutSpeaker: 'Desenvolvedor java, especialista e fã da Computação Ubíqua, atualmente aficionado pelo desenvolvimento para Smartwatches através  do  Android Wear. Participa da comunidade Google Developer Group (GDG) Salvador.  Atua como Analista Java na Capgemini, e é forrozeiro nas horas livres.',
-      image: ['images/talks/ramon_mota.png']
+      image: ['images/talks/ramon-mota.png']
     },
     /* 21 - Francinr Grando - */
     {
