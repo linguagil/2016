@@ -126,7 +126,7 @@
       title: 'Dobro do Resultado na Metade do Tempo',
       description: 'O desperdício de tempo, dinheiro e capital intelectual pode ser fatal para organizações. Apesar disso, a maiora das empresas está queimando dinheiro, perdendo tempo e jogando fora conhecimento e oportunidades ao desenvolver software de forma errada. Veremos que é possível resolver estes problemas.',
       aboutSpeaker: 'CEO na HE:labs, com mais de 16 anos de experiência em TI. Formado em Ciência da Computação, cursou mestrado em Mecatrônica pela UFBA. Atuou na iniciativa privada e no serviço público, sendo responsável por projetos estruturadores de grande porte envolvendo times multi-disciplinares. É palestrante e consultor em Gestão Organizacional e Agile.',
-      image: ['images/talks/a-confirmar.jpg']
+      image: ['images/talks/rafael-miranda.png']
     },
     /* 15 - Rafael Helm - */
     {
