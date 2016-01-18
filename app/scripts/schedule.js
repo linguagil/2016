@@ -174,7 +174,7 @@
       title: 'Computação Ubíqua, o que isso tem a ver com Android Wear.',
       description: 'Você sabe o que é Android Wear? Já imaginou poder ter todas suas informações no seu pulso, sem ter necessidade de tirar seu smartphone do bolso? Veremos nesta palestra o que é esse tal  de Android Wear, desvelando este fascinante mundo da computação ubíqua.',
       aboutSpeaker: 'Desenvolvedor java, especialista e fã da Computação Ubíqua, atualmente aficionado pelo desenvolvimento para Smartwatches através  do  Android Wear. Participa da comunidade Google Developer Group (GDG) Salvador.  Atua como Analista Java na Capgemini, e é forrozeiro nas horas livres.',
-      image: ['images/talks/ramon _mota.png']
+      image: ['images/talks/ramon_mota.png']
     },
     /* 21 - Francinr Grando - */
     {
