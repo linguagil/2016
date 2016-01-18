@@ -160,13 +160,13 @@
       aboutSpeaker: '<p>Adriana Fontes é mestranda em Ciência da Computação na Universidade Federal de Sergipe, possui MBA em Gerência de Projetos (FANESE), especializações em Gestão de Projetos de Software (FANESE) e Didática do Ensino Superior (Pio Décimo) e, cursou Bacharelado em Sistemas de Informação na Universidade Tiradentes. </p><p>Obteve as certificações CSP, CSPO e CSM pela Scrum Alliance e a Certified Lean Kanban pela LeanKanban Universit. </p><p>Profissionalmente, exerce as funções de Analista de Sistemas, Product Owner e Scrum Master em diversos projetos na Pio Décimo e na Trust Consultoria e Softwares.</p>',
       image: ['images/talks/adriana-fontes.jpg']
     },
-    /* 19 ? - */
+    /* 19 Anneliese Gripp - */
     {
-      speaker: '?',
-      title: '?',
-      description: '?',
-      aboutSpeaker: '',
-      image: ['images/talks/a-confirmar.jpg']
+      speaker: 'Anneliese Gripp',
+      title: 'Resiliência, a competência que nos leva a excelência',
+      description: 'Agilidade e gente bambu: a resiliência apoiando a auto-organização dos times!',
+      aboutSpeaker: 'Louca por tecnologia e amante do trabalho com pessoas, há 19 anos dedico meu tempo a Engenharia de Desenvolvimento de Software. Hoje, como consultora, meu trabalho consiste em expandir, compartilhar e aplicar meus conhecimentos, habilidades e experiências nas empresas. Entre as atividades desempenhadas, implanto projetos utilizando Metodologia Ágil (kanban, Scrum), Agile Coach (coaching aplicado a líderes e times) e Personal/Executive Coach (desenvolvimento de competências para alcançar resultados). Nos últimos 9 anos venho trabalhando com Projetos, Produtos e Pessoas, entregando software com rapidez, qualidade e satisfação, para o cliente e para equipe.',
+      image: ['images/talks/anneliese-gripp.jpg']
     },
     /* 20 - Ramon Mota - */
     {
