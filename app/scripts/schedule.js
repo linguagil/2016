@@ -84,8 +84,8 @@
     {
       speaker: 'Isaque Dias',
       title: 'Construindo aplicativos móveis com Ionic Framework',
-      description: 'Aprenda como deixar seus testes funcionais enxutos e independentes dos atrasos do projeto de software',
-      aboutSpeaker: 'O Ionic Framework provou que é possível desenvolver aplicativos multiplataforma utilizando as tecnologias que já conhecemos; HTML, CSS e Javascript. Nessa apresentação, mostraremos o potencial desse incrível framework, entre outras ferramentas que tem permitido a criação de apps extraordinários.',
+      description: 'O Ionic Framework provou que é possível desenvolver aplicativos multiplataforma utilizando as tecnologias que já conhecemos; HTML, CSS e Javascript. Nessa apresentação, mostraremos o potencial desse incrível framework, entre outras ferramentas que tem permitido a criação de apps extraordinários.',
+      aboutSpeaker: 'Empreendedor, desenvolvedor web, e amante das tecnologias mobile híbridas, Isaque Dias tem se dedicado à criação de soluções inovadoras, onde co-fundou a startup NaVibe (2014), e atualmente é Diretor de Produtono Clicou Partiu. Já ministrou cursos particulares e palestras sobre desenvolvimento de aplicativos móveis, web design e empreendedorismo.  É criador do grupo Ionic Brazil, que tem fomentado o desenvolvimento de apps através de cursos, palesras e encontros. Além disto, mantém um blog pessoal sobre desenvolvimeno web e empreendedorismo.',
       image: ['images/talks/isaque-dias.jpg']
     },
     /* 10 - Carlos Felippe Cardoso - */
@@ -120,13 +120,13 @@
       aboutSpeaker: 'Gerente de Projetos da iBLISS e Fundadora da SMINDER. Pós graduada em Segurança da Informação. E incentivadora das mulheres na tecnologia. ',
       image: ['images/talks/a-confirmar.jpg']
     },
-    /* 14 ? - */
+    /* 14 Rafael Miranda - */
     {
-      speaker: '?',
-      title: '?',
-      description: '?',
-      aboutSpeaker: '',
-      image: ['images/talks/a-confirmar.jpg']
+      speaker: 'Rafael Miranda',
+      title: 'Dobro do Resultado na Metade do Tempo',
+      description: 'O desperdício de tempo, dinheiro e capital intelectual pode ser fatal para organizações. Apesar disso, a maiora das empresas está queimando dinheiro, perdendo tempo e jogando fora conhecimento e oportunidades ao desenvolver software de forma errada. Veremos que é possível resolver estes problemas.',
+      aboutSpeaker: 'CEO na HE:labs, com mais de 16 anos de experiência em TI. Formado em Ciência da Computação, cursou mestrado em Mecatrônica pela UFBA. Atuou na iniciativa privada e no serviço público, sendo responsável por projetos estruturadores de grande porte envolvendo times multi-disciplinares. É palestrante e consultor em Gestão Organizacional e Agile.',
+      image: ['images/talks/rafael-miranda.png']
     },
     /* 15 - Rafael Helm - */
     {
@@ -160,13 +160,13 @@
       aboutSpeaker: '<p>Adriana Fontes é mestranda em Ciência da Computação na Universidade Federal de Sergipe, possui MBA em Gerência de Projetos (FANESE), especializações em Gestão de Projetos de Software (FANESE) e Didática do Ensino Superior (Pio Décimo) e, cursou Bacharelado em Sistemas de Informação na Universidade Tiradentes. </p><p>Obteve as certificações CSP, CSPO e CSM pela Scrum Alliance e a Certified Lean Kanban pela LeanKanban Universit. </p><p>Profissionalmente, exerce as funções de Analista de Sistemas, Product Owner e Scrum Master em diversos projetos na Pio Décimo e na Trust Consultoria e Softwares.</p>',
       image: ['images/talks/adriana-fontes.jpg']
     },
-    /* 19 ? - */
+    /* 19 Anneliese Gripp - */
     {
-      speaker: '?',
-      title: '?',
-      description: '?',
-      aboutSpeaker: '',
-      image: ['images/talks/a-confirmar.jpg']
+      speaker: 'Anneliese Gripp',
+      title: 'Resiliência, a competência que nos leva a excelência',
+      description: 'Agilidade e gente bambu: a resiliência apoiando a auto-organização dos times!',
+      aboutSpeaker: 'Louca por tecnologia e amante do trabalho com pessoas, há 19 anos dedico meu tempo a Engenharia de Desenvolvimento de Software. Hoje, como consultora, meu trabalho consiste em expandir, compartilhar e aplicar meus conhecimentos, habilidades e experiências nas empresas. Entre as atividades desempenhadas, implanto projetos utilizando Metodologia Ágil (kanban, Scrum), Agile Coach (coaching aplicado a líderes e times) e Personal/Executive Coach (desenvolvimento de competências para alcançar resultados). Nos últimos 9 anos venho trabalhando com Projetos, Produtos e Pessoas, entregando software com rapidez, qualidade e satisfação, para o cliente e para equipe.',
+      image: ['images/talks/anneliese-gripp.jpg']
     },
     /* 20 - Ramon Mota - */
     {
@@ -182,7 +182,7 @@
       title: 'Empreendendo com Software Livre.',
       description: 'Esta palestra tem como objetivo,desbertar o lado empreendedor do pessoal da area de T.I. Incentivando ao uso demasiado de softawares livres em sua nova jornada. Alem de abordar temas como inovação e criatividade.',
       aboutSpeaker: 'Bacharel em Filosofia, Especialista em Análise de Usuários e Pós Graduada em Marketing Digital. Ganhou notoriedade internacional a partir do case de estudo em redes sociais chamado “O que queremos?”, mesma nomenclatura utilizada em sua página no Facebook que já foi visualizada e compartilhada por mais de 90 milhões de internautas.. Ficou na lista dos palestrantes mais requisitados do Brasil em 2013/2014. Já trabalhou na criação de identidade de comportamento de usuários de marcas como:Ministério da Saúde, Canais Globo Sat, Nextel, Claro,Cia Zafarri, Red Bull, entre outras.',
-      image: ['images/talks/Francine_Grando-Credito_Lisa Roos.jpg']
+      image: ['images/talks/francin-grando.jpg']
     },
     /* 22 ? - */
     {
