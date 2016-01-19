@@ -84,8 +84,8 @@
     {
       speaker: 'Isaque Dias',
       title: 'Construindo aplicativos móveis com Ionic Framework',
-      description: 'Aprenda como deixar seus testes funcionais enxutos e independentes dos atrasos do projeto de software',
-      aboutSpeaker: 'O Ionic Framework provou que é possível desenvolver aplicativos multiplataforma utilizando as tecnologias que já conhecemos; HTML, CSS e Javascript. Nessa apresentação, mostraremos o potencial desse incrível framework, entre outras ferramentas que tem permitido a criação de apps extraordinários.',
+      description: 'O Ionic Framework provou que é possível desenvolver aplicativos multiplataforma utilizando as tecnologias que já conhecemos; HTML, CSS e Javascript. Nessa apresentação, mostraremos o potencial desse incrível framework, entre outras ferramentas que tem permitido a criação de apps extraordinários.',
+      aboutSpeaker: 'Empreendedor, desenvolvedor web, e amante das tecnologias mobile híbridas, Isaque Dias tem se dedicado à criação de soluções inovadoras, onde co-fundou a startup NaVibe (2014), e atualmente é Diretor de Produtono Clicou Partiu. Já ministrou cursos particulares e palestras sobre desenvolvimento de aplicativos móveis, web design e empreendedorismo.  É criador do grupo Ionic Brazil, que tem fomentado o desenvolvimento de apps através de cursos, palesras e encontros. Além disto, mantém um blog pessoal sobre desenvolvimeno web e empreendedorismo.',
       image: ['images/talks/isaque-dias.jpg']
     },
     /* 10 - Carlos Felippe Cardoso - */
