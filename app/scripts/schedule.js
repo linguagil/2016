@@ -180,7 +180,7 @@
     {
       speaker: 'Francinr Grando',
       title: 'Empreendendo com Software Livre.',
-      description: 'Esta palestra tem como objetivo,desbertar o lado empreendedor do pessoal da area de T.I. Incentivando ao uso demasiado de softawares livres em sua nova jornada. Alem de abordar temas como inovação e criatividade.',
+      description: 'Esta palestra tem como objetivo, despertar o lado empreendedor do pessoal da área de T.I. Incentivando ao uso demasiado de softwares livres em sua nova jornada. Além de abordar temas como inovação e criatividade.',
       aboutSpeaker: 'Bacharel em Filosofia, Especialista em Análise de Usuários e Pós Graduada em Marketing Digital. Ganhou notoriedade internacional a partir do case de estudo em redes sociais chamado “O que queremos?”, mesma nomenclatura utilizada em sua página no Facebook que já foi visualizada e compartilhada por mais de 90 milhões de internautas.. Ficou na lista dos palestrantes mais requisitados do Brasil em 2013/2014. Já trabalhou na criação de identidade de comportamento de usuários de marcas como:Ministério da Saúde, Canais Globo Sat, Nextel, Claro,Cia Zafarri, Red Bull, entre outras.',
       image: ['images/talks/francin-grando.jpg']
     },
