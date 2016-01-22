@@ -118,7 +118,7 @@
       title: 'Como empreender tendo um emprego?',
       description: 'Temos desejo de mostrar as nossas ideias e construir coisas novas mas, como é possível desenvolver a minha startup ou explorar as minhas ideias se tenho que trabalhar, preciso cumprir as minhas metas e entregar as minhas atividades para o meu gerente? Parece um grande desafio mas, é simples! ',
       aboutSpeaker: 'Gerente de Projetos da iBLISS e Fundadora da SMINDER. Pós graduada em Segurança da Informação. E incentivadora das mulheres na tecnologia. ',
-      image: ['images/talks/a-confirmar.jpg']
+      image: ['images/talks/paula_antunes.jpg']
     },
     /* 14 Rafael Miranda - */
     {
