@@ -79,10 +79,10 @@
         map.setCenter(mapOpts.origin.lat, mapOpts.origin.lng);
 
         mapOpts.destination = {
-          lat: -12.9372505,
-          lng: -38.4132296,
+          lat: -13.010436,
+          lng: -38.4811749,
           icon: '/images/pin.png',
-          title: 'LinguÁgil 2016 - UniJorge ( 16 a 19 de março ).'
+          title: 'LinguÁgil 2016 - Faculdade Ruy Barbosa ( 16 a 19 de março ).'
         };
 
         map.addMarker({
