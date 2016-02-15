@@ -50,11 +50,11 @@
 
     /* 5 - Morvana Bonin e Guilherme Motta - */
     {
-      speaker: 'Morvana Bonin e Guilherme Motta',
+      speaker: 'Morvana Bonin e Annelise Gripp',
       title: 'Práticas Jedi eXtreme Programming',
       description: 'Neste minicurso, colocaremos na prática algumas técnicas de eXtreme Programming. Será mão na massa, terá programação, apresentação de slides e dinamicas para exercitar alguns dos valores e praticas de XP. Durante o curso, os participantes serão dividos em duplas, grupos, e com um grande grupo.',
-      aboutSpeaker: 'Morvana Bonin - Estudante de Análise e Desenvolvimeto de Sistemas no Senac, Analista de Desenvolvimento na empresa Kinghost, entusiasta e estudante de metodologias ágeis onde poẽm em prática na vida pessoal e no trabalho - <a href="https://br.linkedin.com/in/morvana-bonin-0271b215" target="_blank">linkedin</a>.<br /><br />Guilherme Motta - <a href="https://www.linkedin.com/in/gfcmotta" target="_blank">linkedin</a>',
-      image: ['images/talks/morvana-bonin.jpg', 'images/talks/guilherme-motta.jpg']
+      aboutSpeaker: 'Morvana Bonin - Estudante de Análise e Desenvolvimeto de Sistemas no Senac, Analista de Desenvolvimento na empresa Kinghost, entusiasta e estudante de metodologias ágeis onde poẽm em prática na vida pessoal e no trabalho - <a href="https://br.linkedin.com/in/morvana-bonin-0271b215" target="_blank">linkedin</a>.<br /><br />Annelise Grip - Louca por tecnologia e amante do trabalho com pessoas, há 19 anos dedico meu tempo a Engenharia de Desenvolvimento de Software. Hoje, como consultora, meu trabalho consiste em expandir, compartilhar e aplicar meus conhecimentos, habilidades e experiências nas empresas. Entre as atividades desempenhadas, implanto projetos utilizando Metodologia Ágil (kanban, Scrum), Agile Coach (coaching aplicado a líderes e times) e Personal/Executive Coach (desenvolvimento de competências para alcançar resultados). Nos últimos 9 anos venho trabalhando com Projetos, Produtos e Pessoas, entregando software com rapidez, qualidade e satisfação, para o cliente e para equipe.',
+      image: ['images/talks/morvana-bonin.jpg', 'images/talks/annelise-gripp.jpg']
     },
     /* 6 - Mila Orrico - */
     {
@@ -160,29 +160,29 @@
       aboutSpeaker: '<p>Adriana Fontes é mestranda em Ciência da Computação na Universidade Federal de Sergipe, possui MBA em Gerência de Projetos (FANESE), especializações em Gestão de Projetos de Software (FANESE) e Didática do Ensino Superior (Pio Décimo) e, cursou Bacharelado em Sistemas de Informação na Universidade Tiradentes. </p><p>Obteve as certificações CSP, CSPO e CSM pela Scrum Alliance e a Certified Lean Kanban pela LeanKanban Universit. </p><p>Profissionalmente, exerce as funções de Analista de Sistemas, Product Owner e Scrum Master em diversos projetos na Pio Décimo e na Trust Consultoria e Softwares.</p>',
       image: ['images/talks/adriana-fontes.jpg']
     },
-    /* 19 Anneliese Gripp - */
+    /* 19 Annelise Gripp - */
     {
-      speaker: 'Anneliese Gripp',
+      speaker: 'Annelise Gripp',
       title: 'Resiliência, a competência que nos leva a excelência',
       description: 'Agilidade e gente bambu: a resiliência apoiando a auto-organização dos times!',
       aboutSpeaker: 'Louca por tecnologia e amante do trabalho com pessoas, há 19 anos dedico meu tempo a Engenharia de Desenvolvimento de Software. Hoje, como consultora, meu trabalho consiste em expandir, compartilhar e aplicar meus conhecimentos, habilidades e experiências nas empresas. Entre as atividades desempenhadas, implanto projetos utilizando Metodologia Ágil (kanban, Scrum), Agile Coach (coaching aplicado a líderes e times) e Personal/Executive Coach (desenvolvimento de competências para alcançar resultados). Nos últimos 9 anos venho trabalhando com Projetos, Produtos e Pessoas, entregando software com rapidez, qualidade e satisfação, para o cliente e para equipe.',
-      image: ['images/talks/anneliese-gripp.jpg']
+      image: ['images/talks/annelise-gripp.jpg']
     },
     /* 20 - Ramon Mota - */
     {
       speaker: 'Ramon Mota',
       title: 'Computação Ubíqua, o que isso tem a ver com Android Wear.',
-      description: 'Você sabe o que é Android Wear? Já imaginou poder ter todas suas informações no seu pulso, sem ter necessidade de tirar seu smartphone do bolso? Veremos nesta palestra o que é esse tal  de Android Wear, desvelando este fascinante mundo da computação ubíqua.',
-      aboutSpeaker: 'Desenvolvedor java, especialista e fã da Computação Ubíqua, atualmente aficionado pelo desenvolvimento para Smartwatches através  do  Android Wear. Participa da comunidade Google Developer Group (GDG) Salvador.  Atua como Analista Java na Capgemini, e é forrozeiro nas horas livres.',
+      description: 'Você sabe o que é Android Wear? Já imaginou poder ter todas suas informações no seu pulso, sem ter necessidade de tirar seu smartphone do bolso? Veremos nesta palestra o que é esse tal de Android Wear, desvelando este fascinante mundo da computação ubíqua.',
+      aboutSpeaker: 'Desenvolvedor java, especialista e fã da Computação Ubíqua, atualmente aficionado pelo desenvolvimento para Smartwatches através  do  Android Wear. Participa da comunidade Google Developer Group (GDG) Salvador. Atua como Analista Java na Capgemini, e é forrozeiro nas horas livres.',
       image: ['images/talks/ramon-mota.png']
     },
-    /* 21 - Francinr Grando - */
+    /* 21 - Francine Grando - */
     {
-      speaker: 'Francinr Grando',
+      speaker: 'Francine Grando',
       title: 'Empreendendo com Software Livre.',
       description: 'Esta palestra tem como objetivo, despertar o lado empreendedor do pessoal da área de T.I. Incentivando ao uso demasiado de softwares livres em sua nova jornada. Além de abordar temas como inovação e criatividade.',
       aboutSpeaker: 'Bacharel em Filosofia, Especialista em Análise de Usuários e Pós Graduada em Marketing Digital. Ganhou notoriedade internacional a partir do case de estudo em redes sociais chamado “O que queremos?”, mesma nomenclatura utilizada em sua página no Facebook que já foi visualizada e compartilhada por mais de 90 milhões de internautas.. Ficou na lista dos palestrantes mais requisitados do Brasil em 2013/2014. Já trabalhou na criação de identidade de comportamento de usuários de marcas como:Ministério da Saúde, Canais Globo Sat, Nextel, Claro,Cia Zafarri, Red Bull, entre outras.',
-      image: ['images/talks/francin-grando.jpg']
+      image: ['images/talks/francine-grando.jpg']
     },
     /* 22 ? - */
     {
