@@ -14,12 +14,13 @@
 
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css" />
     <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+
     <!-- build:css({.tmp,app}) styles/main.css -->
     <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css"/>
-
     <link rel="stylesheet" href="bower_components/mediaelement/build/mediaelementplayer.min.css"/>
     <link href="styles/style.css" rel="stylesheet">
     <!-- endbuild -->
+
   </head>
 
   <body>
@@ -42,8 +43,8 @@
         <li><a href="/#top">Início</a></li>
         <li><a href="/#schedule">Programação</a></li>
         <li><a href="/#registration">Inscrições</a></li>
+        <li><a data-animation="scroll" href="#partners">Patrocine nosso evento</a></li>
         <li><a href="/#location">Localização</a></li>
-        <li><a href="/#call-to-action">Patrocine nosso evento</a></li>
         <li><a href="codigo-de-conduta.html">Código de Conduta</a></li>
         <li><a href="eventos-anteriores.html">Eventos anteriores</a></li>
       </ul>
@@ -146,7 +147,7 @@
                   <h4 class="timeline-title">2016</h4>
                 </div>
                 <div class="timeline-body">
-                  <p>O evento será realizado na Unijorge trazendo grandes novidades. Aguardem!</p>
+                  <p>O evento será realizado na Faculdade Ruy Barbosa em março!</p>
                 </div>
               </div>
             </li>
@@ -154,10 +155,18 @@
       </div>
     </div>
 
-    <!-- Footer -->
-    <footer>
+    <!-- Partners -->
+    <section id="partners">
       <!-- Sponsors -->
       <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2>Patrocínio</h2>
+            <hr/>
+            <br/><br/>
+          </div>
+        </div>
+        <!-- Apoio -->
         <div class="row">
           <h3 class="col-md-12 col-lg-12 col-xs-12 col-sm-12 text-center">
             <span class="parallax-text">APOIO</span>
@@ -165,27 +174,61 @@
         </div>
 
         <div class="row">
-          <div class="col-md-2 col-sm-2 col-xs-4 col-md-offset-4 col-xs-offset-4 col-lg-offset-4">
+          <div class="col-md-2 col-sm-2 col-xs-4 col-md-offset-3 col-xs-offset-3 col-lg-offset-3">
             <a href="http://omnicode.com.br/" class="external" title="Omnicode Solutions">
-              <img alt="Omnicode Solutions" src="images/sponsors/background.gif" data-src="images/sponsors/logo-omnicode.png" width="290" height="290" class="img-responsive load-image-async" />
+              <img alt="Omnicode Solutions" src="images/sponsors/background.gif" data-src="images/sponsors/omnicode.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+
+          <div class="col-md-2 col-sm-2 col-xs-4">
+            <a href="http://www.bw2mobility.com.br/" class="external" title="BW2Mobility">
+              <img alt="BW2Mobility" src="images/sponsors/background.gif" data-src="images/sponsors/bw2mobility.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+
+          <div class="col-md-2 col-sm-2 col-xs-4">
+            <a href="http://scrumrio.com/" class="external" title="Scrum Gathering® Rio 2016">
+              <img alt="Scrum Gathering® Rio 2016" src="images/sponsors/background.gif" data-src="images/sponsors/scrum-rio.png" width="290" height="290" class="img-responsive load-image-async" />
             </a>
           </div>
         </div>
+
+        <div class="row">
+          <div class="col-md-2 col-sm-2 col-xs-4 col-md-offset-3 col-xs-offset-3 col-lg-offset-3">
+          </div>
+          <div class="col-md-2 col-sm-2 col-xs-4">
+            <a href="http://www.wildtech.com.br/" class="external" title="Wildtech Cursos e Consultoria">
+              <img alt="Wildtech Cursos e Consultoria" src="images/sponsors/background.gif" data-src="images/sponsors/wildtech.png" width="290" height="290" class="img-responsive load-image-async" />
+            </a>
+          </div>
+          <div class="col-md-2 col-sm-2 col-xs-4">
+          </div>
+        </div>
+        <!-- /Apoio -->
       </div>
       <!-- /Sponsors -->
+    </section>
+    <!-- /Partners -->
 
+    <!-- Call to Action -->
+    <div id="call-to-action">
       <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center">
-            <ul class="list-inline">
-              <li>
-                <a href="mailto:linguagil@linguagil.com.br" title="Torne-se nosso patrocinador">
-                 <img alt="Torne-se nosso patrocinador" src="images/sponsors/background.gif" data-src="images/sponsors/be-a-sponsor.png" width="290" height="290" class="img-responsive load-image-async" />
-                </a>
-              </li>
-            </ul>
+            <h3>Gostaria de patrocinar o evento?</h3>
+            <br />
+            <a href="images/sponsors/prospecto-linguagil.png" class="btn btn-lg btn-success">Veja o nosso prospecto</a>
+            <br />
+            <a href="mailto:linguagil@linguagil.com.br" class="btn btn-lg btn-primary">Entre em contato</a>
           </div>
         </div>
+      </div>
+    </div>
+    <!-- /Call to Action -->
+
+    <!-- Footer -->
+    <footer>
+      <div class="container">
         <div class="row">
           <div class="col-md-6 col-md-offset-3 text-center">
             <p>Acompanhe-nos nas redes sociais</p>
