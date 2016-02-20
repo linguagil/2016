@@ -344,7 +344,7 @@ i.scroll:hover {
 /*  FONT-COLORS */
 
 /* LOCATION */
-#location{
+#location, #partners{
   padding: 30px 0;
   border-bottom: 4px solid #0a5175;
 }
@@ -449,7 +449,7 @@ i.scroll:hover {
   text-decoration:none;
 }
 
-footer .parallax-text, .parallax-text-mini{
+#partners .parallax-text, .parallax-text-mini{
   font-size: 23px !important;
   line-height: 29px !important;
 }
