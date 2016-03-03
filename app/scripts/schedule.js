@@ -30,13 +30,13 @@
       image: ['images/talks/marcio-albuquerque.jpg']
     },
 
-    /* 3 - Rafael Helm - */
+    /* 3 - Juliano Ribeiro - */
     {
-      speaker: 'Rafael Helm',
-      title: 'Olá Mundo Ágil - A sua Porta de Entrada no Mundo Ágil!',
-      description: 'O objetivo deste treinamento é ajudar empresas iniciando no mundo Ágil a ganharem mais cultura a respeito de metodologias ágeis como Lean, Kanban e Scrum. Ao final do treinamento os participantes terão mais visibilidade sobre o que vão enfrentar durante a transição para o uso de metodologias ágeis.',
-      aboutSpeaker: 'Experiência de Agile Coach em projetos de larga escala e instrutor de métodos ágeis na Wildtech, tendo a oportunidade de treinar empresas e equipes de diferentes localidades do Brasil, incluindo organizações de larga escala como Procergs, Serpro, Totvs, Banco do Brasil, entre outras empresas. Autor do ebook Histórias de Usuário – Por que e como escrever requisitos de forma ágil?, que atingiu a marca de 4.000 downloads em menos de um ano. Autor do livro "eXtreme Programming - Práticas para o dia a dia no desenvolvimento ágil de software".',
-      image: ['images/talks/rafael-helm.jpeg']
+      speaker: 'Juliano Ribeiro',
+      title: 'KANBAN TRAINING',
+      description: 'O Kanban vem sendo utilizado no mundo em diversos projetos para o desenvolvimento dos mais variados produtos, assim como para a otimização de processos organizacionais. Nesse treinamento você será apresentado ao processo de desenvolvimento Kanban e aos conceitos envolvidos na sua criação. Trabalharemos como criar o seu próprio kanban e aplicá-lo em diversos processos dentro da sua organização. Convidamos todos os profissionais que lidam com a área de desenvolvimento de software, direta ou indiretamente, para aprender os conceitos e entender a interação dentro de uma equipe de desenvolvedores que utiliza um sistema Kanban.',
+      aboutSpeaker: 'Especialista em Orientação à objetos pelo CESUMAR, é Certified Scrum Professional pela Scrum Alliance, Learning 3.0 Facilitator pela Happy Melly e Certified Delphi Developer pela Embarcadero. Desenvolve software profissionalmente desde 1994. Possui projetos em diversas linguagens como Clipper, Delphi, Java, iOS e Android. Experiência em liderança de equipes de desenvolvimento tendo implementado práticas de XP e Scrum em diversas empresas. Trabalha como Team Member, Scrum Master e Agile Coach desde 2009. Leciona treinamentos de Scrum, Kanban e XP. Organiza e apoia edições do Agile Tour desde 2009. É palestrante recorrente nos principais eventos sobre agilidade no Brasil e no exterior. É o chairman da edição 2016 do Agile Brazil, a maior conferência sobre o assunto na América Latina. Na Objective Solutions atua como profissional sênior, em consultoria e especificação.',
+      image: ['images/talks/juliano-ribeiro.jpg']
     },
 
     /* 4 - Maurício Vieira - */
@@ -130,11 +130,11 @@
     },
     /* 15 - Rafael Helm - */
     {
-      speaker: 'Rafael Helm',
-      title: 'Histórias de Usuário - Por que e como escrever requisitos de forma ágil?',
-      description: 'Você já percebeu que o desenvolvimento de software começa muito antes da escrita das primeiras linhas de código, e que uma documentação ruim vai gerar um software ruim? O objetivo da palestra é demonstrar uma forma mais leve, mas ao mesmo poderosa, de especificar requisitos de software.',
-      aboutSpeaker: 'Experiência de Agile Coach em projetos de larga escala e instrutor de métodos ágeis na Wildtech, tendo a oportunidade de treinar empresas e equipes de diferentes localidades do Brasil, incluindo organizações de larga escala como Procergs, Serpro, Totvs, Banco do Brasil, entre outras empresas. Autor do ebook Histórias de Usuário – Por que e como escrever requisitos de forma ágil?, que atingiu a marca de 4.000 downloads em menos de um ano. Autor do livro "eXtreme Programming - Práticas para o dia a dia no desenvolvimento ágil de software".',
-      image: ['images/talks/rafael-helm.jpeg']
+      speaker: '',
+      title: '',
+      description: '',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
     },
     /* 16 - Juliano RIbeiro - */
     {
