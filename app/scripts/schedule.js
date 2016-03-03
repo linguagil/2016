@@ -66,11 +66,11 @@
     },
     /* 7 ? - */
     {
-      speaker: '?',
-      title: '?',
-      description: '?',
-      aboutSpeaker: '',
-      image: ['images/talks/a-confirmar.jpg']
+       speaker: 'Ana Paula Vargas Maia',
+      title: 'Hackeando Representatividade: Mulheres Empreendedoras',
+      description: 'Palestra pocket sobre cultura empreendedora e os espaço da mulher no universo da tecnologia.',
+      aboutSpeaker: 'Publicitária formada pela Universidade Tiradentes e Mestre em New Media pela Southern Illinois University Carbondale, foi no Empoderamento da Mulhe, Piquenique (piquenique.org) e no Grupo de Pesquisa sobre Gênero, Sexualidade e Feminismos da PUCRS que encontrou mais razões para levantar todo dia. Atua com projetos que tem como principal missão contribuir para o empoderamento individual e coletivo de mulheres através de debates, ações e reflexões, utilizando as ferramentas de inovação social como fios condutores dessa jornada.',
+      image: ['images/talks/ana-paula-maia.jpg']
     },
     /* 8 - Lorena Caldas - */
     {
@@ -146,11 +146,11 @@
     },
     /* 17 - Ana Paula Vargas Maia - */
     {
-      speaker: 'Ana Paula Vargas Maia',
-      title: 'Hackeando Representatividade: Mulheres Empreendedoras',
-      description: 'Palestra pocket sobre cultura empreendedora e os espaço da mulher no universo da tecnologia.',
-      aboutSpeaker: 'Publicitária formada pela Universidade Tiradentes e Mestre em New Media pela Southern Illinois University Carbondale, foi no Empoderamento da Mulhe, Piquenique (piquenique.org) e no Grupo de Pesquisa sobre Gênero, Sexualidade e Feminismos da PUCRS que encontrou mais razões para levantar todo dia. Atua com projetos que tem como principal missão contribuir para o empoderamento individual e coletivo de mulheres através de debates, ações e reflexões, utilizando as ferramentas de inovação social como fios condutores dessa jornada.',
-      image: ['images/talks/ana-paula-maia.jpg']
+      speaker: 'Vladson Freire',
+      title: '?',
+      description: '?',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
     },
     /* 18 Adriana de Melo Fontes - */
     {
