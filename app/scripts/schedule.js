@@ -64,9 +64,9 @@
       aboutSpeaker: 'Trabalha com Agilidade desde 2009, é desenvolvedora, empreendedora e atua principalmente como Product Owner e Coordenadora de Desenvolvimento. É CSM, CSPO e CSD, e contribui na organização do Agile Tour Salvador e do LinguÁgil. <a href="https://www.linkedin.com/in/milaorrico/" target="_blank">linkedin.com/milaorrico</a>.',
       image: ['images/talks/mila-orrico.jpg']
     },
-    /* 7 ? - */
+    /* 7 Ana Paula Vargas Maia - */
     {
-       speaker: 'Ana Paula Vargas Maia',
+      speaker: 'Ana Paula Vargas Maia',
       title: 'Hackeando Representatividade: Mulheres Empreendedoras',
       description: 'Palestra pocket sobre cultura empreendedora e os espaço da mulher no universo da tecnologia.',
       aboutSpeaker: 'Publicitária formada pela Universidade Tiradentes e Mestre em New Media pela Southern Illinois University Carbondale, foi no Empoderamento da Mulhe, Piquenique (piquenique.org) e no Grupo de Pesquisa sobre Gênero, Sexualidade e Feminismos da PUCRS que encontrou mais razões para levantar todo dia. Atua com projetos que tem como principal missão contribuir para o empoderamento individual e coletivo de mulheres através de debates, ações e reflexões, utilizando as ferramentas de inovação social como fios condutores dessa jornada.',
@@ -144,7 +144,7 @@
       aboutSpeaker: 'Especialista em Orientação à objetos pelo CESUMAR, é Certified Scrum Professional pela Scrum Alliance, Learning 3.0 Facilitator pela Happy Melly e Certified Delphi Developer pela Embarcadero. Desenvolve software profissionalmente desde 1994. Possui projetos em diversas linguagens como Clipper, Delphi, Java, iOS e Android. Experiência em liderança de equipes de desenvolvimento tendo implementado práticas de XP e Scrum em diversas empresas. Trabalha como Team Member, Scrum Master e Agile Coach desde 2009. Leciona treinamentos de Scrum, Kanban e XP. Organiza e apoia edições do Agile Tour desde 2009. É palestrante recorrente nos principais eventos sobre agilidade no Brasil e no exterior. É o chairman da edição 2016 do Agile Brazil, a maior conferência sobre o assunto na América Latina. Na Objective Solutions atua como profissional sênior, em consultoria e especificação.',
       image: ['images/talks/juliano-ribeiro.jpg']
     },
-    /* 17 - Ana Paula Vargas Maia - */
+    /* 17 - Vladson Freire - */
     {
       speaker: 'Vladson Freire',
       title: '?',
