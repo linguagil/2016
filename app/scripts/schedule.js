@@ -104,13 +104,13 @@
       aboutSpeaker: 'Osvaldo é egenheiro e sócio do Jusbrasil, doutorando em Ciência da Computação (UFBA), mestre em Ciências da Computação (UFMG) e graduado em Engenharia de Computação (UEFS). Atualmente é líder técnico no desenvolvimento frontend do site onde atua com métodos ágeis.',
       image: ['images/talks/tupy.jpg']
     },
-    /* 12 Camille Nogueira - */
+    /* 12 - Camille Nogueira - */
     {
       speaker: 'Camille Nogueira',
       title: 'Organização e Agilidade, como isso funciona?',
       description: 'Com a metodologia SCRUM, as cerimônias definem alguns procedimentos que auxiliam nos resultados das entregas, mas elas não dizem como fazer. A minha proposta é mostrar ao público como fazermos para organizar as tarefas entre o time para obtenção de resultados mais satisfatórios. Um trabalho organizado, com clareza para os envolvidos, gera um maior engajamento e motivação.',
       aboutSpeaker: 'Cientista da Computação, Mestranda em Computação Aplicada, MBA em Gestão de Projetos e Especialização em Gestão de TI. Atualmente atua como Professora universitária e Gerente de Projetos.',
-      image: ['images/talks/camile-nogueira.jpg']
+      image: ['images/talks/camille-nogueira.jpg']
     },
     /* 13 - Osvaldo Matos Júnior (Tupy) - */
     {
@@ -118,7 +118,7 @@
       title: 'Como empreender tendo um emprego?',
       description: 'Temos desejo de mostrar as nossas ideias e construir coisas novas mas, como é possível desenvolver a minha startup ou explorar as minhas ideias se tenho que trabalhar, preciso cumprir as minhas metas e entregar as minhas atividades para o meu gerente? Parece um grande desafio mas, é simples! ',
       aboutSpeaker: 'Fundadora da SMINDER. Pós graduada em Segurança da Informação. E incentivadora das mulheres na tecnologia. ',
-      image: ['images/talks/paula_antunes.jpg']
+      image: ['images/talks/paula-antunes.jpg']
     },
     /* 14 Rafael Miranda - */
     {
