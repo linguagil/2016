@@ -186,11 +186,11 @@
     },
     /* 22 ? - */
     {
-      speaker: '?',
-      title: '?',
-      description: '?',
-      aboutSpeaker: '',
-      image: ['images/talks/a-confirmar.jpg']
+      speaker: 'Alex Kondera',
+      title: 'Ferramentas gratuitas para Cross-browser Testing',
+      description: 'Adaptando-se a web moderna, com ferramentas e recursos gratuitos para turbinar sua produtividade e compatibilizar seu código para todos os navegadores e sistemas operacionais.',
+      aboutSpeaker: 'Engenheiro da Computação, Microsoft MVP. Com 10 anos de experiência na área de desenvolvimento web, e desde 2003 atua nos programas e comunidades da Microsoft. Fez parte do primeiro time de Estudantes Embaixadores da Microsoft em 2005, passando também pelo programa MSP (Microsoft Student Partners) como Lead e Mentor atuando em comunidades MSDN. Coordena a DevBrasil e é titulado como MID (Most Influential Developer).',
+      image: ['images/talks/alex-kondera.png']
     },
     /* 23 - Otávio Santana - */
     {
