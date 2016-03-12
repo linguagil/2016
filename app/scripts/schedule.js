@@ -144,13 +144,13 @@
       aboutSpeaker: 'Especialista em Orientação à objetos pelo CESUMAR, é Certified Scrum Professional pela Scrum Alliance, Learning 3.0 Facilitator pela Happy Melly e Certified Delphi Developer pela Embarcadero. Desenvolve software profissionalmente desde 1994. Possui projetos em diversas linguagens como Clipper, Delphi, Java, iOS e Android. Experiência em liderança de equipes de desenvolvimento tendo implementado práticas de XP e Scrum em diversas empresas. Trabalha como Team Member, Scrum Master e Agile Coach desde 2009. Leciona treinamentos de Scrum, Kanban e XP. Organiza e apoia edições do Agile Tour desde 2009. É palestrante recorrente nos principais eventos sobre agilidade no Brasil e no exterior. É o chairman da edição 2016 do Agile Brazil, a maior conferência sobre o assunto na América Latina. Na Objective Solutions atua como profissional sênior, em consultoria e especificação.',
       image: ['images/talks/juliano-ribeiro.jpg']
     },
-    /* 17 - Vladson Freire - */
+    /* 17 - João Bosco - */
     {
-      speaker: 'Vladson Freire',
-      title: '?',
-      description: '?',
-      aboutSpeaker: '',
-      image: ['images/talks/a-confirmar.jpg']
+      speaker: 'João Bosco',
+      title: 'Futuro e tendências no desenvolvimento de software: Técnicas, Ferramentas e Plataformas.',
+      description: 'A partir de uma analise de mercado, essa palestra irá abordar o cenário de adoção de novas tecnologias e tendências no desenvolvimento de software, passando por técnicas, ferramentas e plataformas inovadoras.',
+      aboutSpeaker: 'João Bosco Seixas é consultor especialista em arquitetura de sistemas e trabalha com as principais plataformas de Cloud do mercado desde 2010. Acredita que somente através de inovação se pode garantir diferencial competitivo, por isso procura manter referências variadas de conhecimento, estudando assuntos diversos que convergem na criação de soluções inovadoras. <br />Tem prazer em atuar como transformador digital conduzindo equipes e empresas a novos estágios de desenvolvimento, permitindo que sejam competitivas e estejam a frente nas inovações dos seus mercados.<br/> <a href="https://br.linkedin.com/in/joaoboscoseixas" target="_blank">Linkedin</a>, <a href="https://twitter.com/joaoboscoseixas" target="_blank">Twitter</a>, <a href="https://www.facebook.com/joao.bosco.t.seixas" target="_blank">Facebook</a>',
+      image: ['images/talks/joao-bosco.png']
     },
     /* 18 Adriana de Melo Fontes - */
     {
@@ -184,7 +184,7 @@
       aboutSpeaker: 'Bacharel em Filosofia, Especialista em Análise de Usuários e Pós Graduada em Marketing Digital. Ganhou notoriedade internacional a partir do case de estudo em redes sociais chamado “O que queremos?”, mesma nomenclatura utilizada em sua página no Facebook que já foi visualizada e compartilhada por mais de 90 milhões de internautas.. Ficou na lista dos palestrantes mais requisitados do Brasil em 2013/2014. Já trabalhou na criação de identidade de comportamento de usuários de marcas como:Ministério da Saúde, Canais Globo Sat, Nextel, Claro,Cia Zafarri, Red Bull, entre outras.',
       image: ['images/talks/francine-grando.jpg']
     },
-    /* 22 ? - */
+    /* 22 - Alex Kondera - */
     {
       speaker: 'Alex Kondera',
       title: 'Ferramentas gratuitas para Cross-browser Testing',
