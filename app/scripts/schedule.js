@@ -43,7 +43,7 @@
     {
       speaker: 'Maurício Vieira',
       title: 'Construindo e documentando uma API REST usando Python e Django',
-      description: 'Neste curso faremos uma API REST utilizando Django REST Framework e práticas da eXtreme Programming (test-driven development, pair programming, refactoring, e simple design).',
+      description: 'Neste curso faremos uma API REST utilizando Django REST Framework e práticas da eXtreme Programming (test-driven development, pair programming, refactoring, e simple design).<br/><br/><p class="text-center"><a target="_blank" href="https://github.com/linguagil/2016-minicursos/blob/master/RequisitosMinicursoDjangoRestFramework.md" class="btn btn-default btn-lg btn-success">Requisitos</a></p>',
       aboutSpeaker: 'Engenheiro de Software full stack, trabalhou em empresas como o SERPRO, Thoughtworks e Dafiti, atualmente trabalha na Voxy, uma plataforma global de ensino de idiomas, e presta consultoria pela Omnicode Solutions. <br /> Maurício é um soteropolitano que migrou para São Paulo, mas continua atuando nas comunidades de Salvador ao participar da organização do LinguÁgil desde 2010, e do Rails Girls Salvador desde 2013. Ele gosta de linguagens de programação dinâmicas, possui experiência em diversas linguagens como Python, PHP, Ruby, Perl, e Lua.',
       image: ['images/talks/mauricio-vieira.jpg']
     },
