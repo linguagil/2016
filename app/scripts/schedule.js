@@ -120,7 +120,7 @@
       aboutSpeaker: 'Fundadora da SMINDER. Pós graduada em Segurança da Informação. E incentivadora das mulheres na tecnologia. ',
       image: ['images/talks/paula-antunes.jpg']
     },
-    /* 14 Rafael Miranda - */
+    /* 14 - Rafael Miranda - */
     {
       speaker: 'Rafael Miranda',
       title: 'Dobro do Resultado na Metade do Tempo',
@@ -128,7 +128,7 @@
       aboutSpeaker: 'CEO na HE:labs, com mais de 16 anos de experiência em TI. Formado em Ciência da Computação, cursou mestrado em Mecatrônica pela UFBA. Atuou na iniciativa privada e no serviço público, sendo responsável por projetos estruturadores de grande porte envolvendo times multi-disciplinares. É palestrante e consultor em Gestão Organizacional e Agile.',
       image: ['images/talks/rafael-miranda.png']
     },
-    /* 15 - Rafael Helm - */
+    /* 15 - ? - */
     {
       speaker: '',
       title: '',
