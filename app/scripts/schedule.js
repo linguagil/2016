@@ -4,14 +4,15 @@
   'use strict';
 
   var schedules = [
-    /* 0 - Luciano Borges - */
+    /* 0 - ? - */
     {
-      speaker: 'Luciano Borges',
-      title: 'Lego4Scrum',
-      description: 'Esse mini-curso visa fazer uma introdução ao Scrum de forma prática e lúdica usando peças de Lego.',
-      aboutSpeaker: 'Peregrino;<br />Praticante de Krav Magá;<br />Entusiasta da linguagem de programação Ruby e do framework Rails;<br />Participante do Grupo LinguÁgil (www.linguagil.com.br) - grupo que dissemina a cultura ágil e a filosofia da progração poliglota em Salvador-BA;<br />Participante do Grupo de Usuários Ruby da Bahia (GURU-BA);<br />Divulgador da ferramenta RAD de desenvolvimento Java - WebIntegrator na comunidade do portal software público;<br />Mestrando com projeto na área de SIGWEB;<br />Professor universitário;<br />Analista de Sistema do SERPRO;',
-      image: ['images/talks/luciano-borges.jpg']
+      speaker: '',
+      title: '',
+      description: '',
+      aboutSpeaker: '',
+      image: ['images/talks/a-confirmar.jpg']
     },
+
     /* 1 - Achilles Fróes - */
     {
       speaker: 'Achilles Fróes',
