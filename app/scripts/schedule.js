@@ -17,7 +17,7 @@
     {
       speaker: 'Achilles Fróes',
       title: 'Oficina de ASP.NET MVC',
-      description: 'Apresentar os conceitos essenciais de desenvolvimento de aplicações web com ASP.NET MVC.',
+      description: 'Apresentar os conceitos essenciais de desenvolvimento de aplicações web com ASP.NET MVC.<br/> <p class="text-center"><a class="btn btn-default btn-lg btn-success" href="#">Trazer notebook com Visual Studio 2013 Community, Sql Express</a></p>',
       aboutSpeaker: 'Apaixonado por desenvolvimento de software, desenvolve software para web desde 2003. Foi professor da pós graduação em Engenharia de Software com .Net no Instituto Infnet (RJ), já palestrou sobre .NET na UNIFACS, Faculdade Maurício de Nassau, Faculdade Dom Pedro II e Fundação Visconde de Cairú e nos eventos LinguÁgil 2015, Microsoft DevBrasil Open Day e Microsoft Students 2 Business, além de atuar como líder técnico e arquiteto de software e ser certificado Microsoft. Tem como objetivo tornar o seu caminho rumo ao desenvolvimento profissional de software para web mais fácil e agradável. :D',
       image: ['images/talks/achilles-froes.jpeg']
     },
@@ -26,7 +26,7 @@
     {
       speaker: 'Marcio Albuquerque',
       title: 'Novidades do PHP 7',
-      description: 'Novidades do PHP 7',
+      description: 'Novidades do PHP 7.<br /><p class="text-center"><a class="btn btn-default btn-lg btn-success" href="#">Trazer notebook com PHP 7 com todas as extensões.</a></p>',
       aboutSpeaker: 'Trabalha como DevOps no SERPRO com sistemas de infra-estrutura interna da empresa. Curioso da TI, gosta de mexer um pouco com tudo! Tem como preferência e especialidade trabalhos com web: HTML5, CSS3, JS, PHP, etc. Atualmente estuda muito sobre o mundo mobile e PhoneGap/Cordova',
       image: ['images/talks/marcio-albuquerque.jpg']
     },
