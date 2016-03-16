@@ -129,13 +129,13 @@
       aboutSpeaker: 'CEO na HE:labs, com mais de 16 anos de experiência em TI. Formado em Ciência da Computação, cursou mestrado em Mecatrônica pela UFBA. Atuou na iniciativa privada e no serviço público, sendo responsável por projetos estruturadores de grande porte envolvendo times multi-disciplinares. É palestrante e consultor em Gestão Organizacional e Agile.',
       image: ['images/talks/rafael-miranda.png']
     },
-    /* 15 - ? - */
+    /* 15 - Samuel Cavalcante - */
     {
-      speaker: '',
-      title: '',
-      description: '',
-      aboutSpeaker: '',
-      image: ['images/talks/a-confirmar.jpg']
+      speaker: 'Samuel Cavalcante',
+      title: '"No estimate" do jeito errado',
+      description: 'Sabe aquela sensação de estar trabalhando entregando e parecer que não entrega nada, pois é, foi o que aconteceu quando resolvemos parar de estimar. Quando resolvemos fazer isso acreditávamos na felicidade e caímos no “Extreme Go Horse”. Quero apresentar o que levou nossos times a chegar ao XGH e como saímos dele, sem estimar em pontos.',
+      aboutSpeaker: 'Pai, Esposo, Scrum Master na DígithoBrasil, Professor Universitário, Curioso, Arduineiro e Engenheiro de Computação.',
+      image: ['images/talks/samuel-cavalcante.jpg']
     },
     /* 16 - Juliano RIbeiro - */
     {

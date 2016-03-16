@@ -535,6 +535,7 @@ module.exports = function (grunt) {
     'modifyImageLinkInScript:scripts.js:rafael-helm.jpeg:talks',
     'modifyImageLinkInScript:scripts.js:rafael-miranda.png:talks',
     'modifyImageLinkInScript:scripts.js:ramon-mota.png:talks',
+    'modifyImageLinkInScript:scripts.js:samuel-cavalcante.jpg:talks',
     'modifyImageLinkInScript:scripts.js:tupy.jpg:talks',
     'modifyImageLinkInScript:scripts.js:camile-nogueira.jpg:talks',
     'modifyImageLinkInStyles:main.css:home-background.jpg'
