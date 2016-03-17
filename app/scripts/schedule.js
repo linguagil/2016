@@ -71,7 +71,7 @@
       title: 'Palestra surpresa!',
       description: 'O conteúdo desta palestra é suspresa!',
       aboutSpeaker: 'Os organizadores do evento LinguÁgil são pessoas que tem paixão pela comunidade e por eventos.',
-      image: ['images/talks/ana-paula-maia.jpg']
+      image: ['images/talks/a-confirmar.jpg']
     },
     /* 8 - Lorena Caldas - */
     {
