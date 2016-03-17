@@ -65,12 +65,12 @@
       aboutSpeaker: 'Trabalha com Agilidade desde 2009, é desenvolvedora, empreendedora e atua principalmente como Product Owner e Coordenadora de Desenvolvimento. É CSM, CSPO e CSD, e contribui na organização do Agile Tour Salvador e do LinguÁgil. <a href="https://www.linkedin.com/in/milaorrico/" target="_blank">linkedin.com/milaorrico</a>.',
       image: ['images/talks/mila-orrico.jpg']
     },
-    /* 7 Ana Paula Vargas Maia - */
+    /* 7 Palestra Surpresa. - */
     {
-      speaker: 'Ana Paula Vargas Maia',
-      title: 'Hackeando Representatividade: Mulheres Empreendedoras',
-      description: 'Palestra pocket sobre cultura empreendedora e os espaço da mulher no universo da tecnologia.',
-      aboutSpeaker: 'Publicitária formada pela Universidade Tiradentes e Mestre em New Media pela Southern Illinois University Carbondale, foi no Empoderamento da Mulhe, Piquenique (piquenique.org) e no Grupo de Pesquisa sobre Gênero, Sexualidade e Feminismos da PUCRS que encontrou mais razões para levantar todo dia. Atua com projetos que tem como principal missão contribuir para o empoderamento individual e coletivo de mulheres através de debates, ações e reflexões, utilizando as ferramentas de inovação social como fios condutores dessa jornada.',
+      speaker: 'Organizadores do Evento',
+      title: 'Palestra surpresa!',
+      description: 'O conteúdo desta palestra é suspresa!',
+      aboutSpeaker: 'Os organizadores do evento LinguÁgil são pessoas que tem paixão pela comunidade e por eventos.',
       image: ['images/talks/ana-paula-maia.jpg']
     },
     /* 8 - Lorena Caldas - */
