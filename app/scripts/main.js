@@ -35,11 +35,11 @@
       year = date.getYear(),
       $navTabs = $('.nav-tabs')
     ;
-    if (year !== 116 || month < 2 || (month === 2 && day <= 15)) {
+    if (year !== 116 || month < 2 || (month === 2 && day <= 16)) {
       $navTabs.find('a[href="#tab1"]').trigger('click');
-    } else if (month === 2 && day === 16) {
-      $navTabs.find('a[href="#tab2"]').trigger('click');
     } else if (month === 2 && day === 17) {
+      $navTabs.find('a[href="#tab2"]').trigger('click');
+    } else if (month === 2 && day === 18) {
       $navTabs.find('a[href="#tab3"]').trigger('click');
     } else {
       $navTabs.find('a[href="#tab4"]').trigger('click');
